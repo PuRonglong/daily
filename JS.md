@@ -15,3 +15,7 @@ JS中的闭包
 
 http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html
 JS性能优化：加载和执行
+
+http://xueduany.github.io/localstore/
+纯js实现突破localstorage的存储上限 并且可以保存远程服务器的网页，静态资源比如css,js,img全部离线下载到本地，并且还原
+有兴趣的 可以和我聊需求，代码开源:薛端阳
