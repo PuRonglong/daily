@@ -67,3 +67,15 @@ http://www.imooc.com/wenda/detail/257847
 
 http://blogread.cn/it/article/4425?f=wb
 div+css+js无缝滚动代码
+
+http://www.imooc.com/wenda/detail/214748
+js内存管理
+
+http://segmentfault.com/q/1010000002718311?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+js 用 replace + 正则删掉指定 url 参数
+
+http://blogread.cn/it/article/4492?f=wb
+javascript获取隐藏dom的宽高
+
+http://www.kuqin.com/shuoit/20150313/345225.html
+总结的js性能优化方面的小知识
