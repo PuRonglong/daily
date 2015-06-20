@@ -37,3 +37,18 @@ http://www.w3ctech.com/topic/922
 
 http://www.codeceo.com/article/javascript-strategy-pattern.html
 JS设计模式经典之策略模式
+
+http://www.imooc.com/view/138
+DOM事件探秘
+
+http://www.cnblogs.com/terryglp/articles/1776695.html
+js变量以及其作用域详解，讲的挺好的
+
+http://www.bkjia.com/webzh/880552.html
+js变量声明，举得4个例子很棒啊啊啊
+
+http://pid.github.io/speakingurl/
+SpeakingURL把自然语言转成友好的URL (slug) 。。。等等！我大中文表示不服
+
+http://www.jb51.net/article/14566.htm
+js中cookie的使用详细分析
