@@ -52,3 +52,18 @@ SpeakingURL把自然语言转成友好的URL (slug) 。。。等等！我大中�
 
 http://www.jb51.net/article/14566.htm
 js中cookie的使用详细分析
+
+http://blogread.cn/it/article/4400?f=wb
+规范自己的js书写
+
+http://v.youku.com/v_show/id_XOTQwODU5ODg0.html
+视频: 试看-Javascript程序设计
+
+http://www.cnblogs.com/luluping/archive/2011/02/14/1954092.html
+js实践篇：例外处理Try{}catch(e){}
+
+http://www.imooc.com/wenda/detail/257847
+10个优秀的js的音频库
+
+http://blogread.cn/it/article/4425?f=wb
+div+css+js无缝滚动代码
