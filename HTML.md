@@ -9,3 +9,6 @@ http://caibaojian.com/html5-canvas-performance.html
 
 http://www.html5cn.org/article-7189-1.html
 10个最常见的 HTML5 面试题及答案
+
+http://segmentfault.com/a/1190000002920762
+HTML5，不只是看上去很美（第三弹：萌萌哒拓扑图分组）
