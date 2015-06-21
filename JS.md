@@ -91,3 +91,12 @@ http://segmentfault.com/a/1190000002718918?utm_source=Weibo&utm_medium=shareLink
 
 http://youmightnotneedjquery.com/
 YOU MIGHT NOT NEED JQUERY
+
+http://web.jobbole.com/82381/
+JS性能优化小知识总结
+
+http://blogread.cn/it/article/4544?f=wb
+JS3D模型
+
+http://www.codeceo.com/article/javascript-guide.html
+前端JS规范 非常详细
