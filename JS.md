@@ -79,3 +79,15 @@ javascript获取隐藏dom的宽高
 
 http://www.kuqin.com/shuoit/20150313/345225.html
 总结的js性能优化方面的小知识
+
+https://sobug.com/article/detail/22
+浅谈JavaScript DDOS 攻击原理与防御
+
+http://www.admin10000.com/document/6227.html
+研读js全栈开发人员：云时代的奇迹
+
+http://segmentfault.com/a/1190000002718918?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+你真的弄明白了new吗？
+
+http://youmightnotneedjquery.com/
+YOU MIGHT NOT NEED JQUERY
