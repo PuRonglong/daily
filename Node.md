@@ -18,3 +18,14 @@ http://fex.baidu.com/blog/2015/05/nodejs-hot-swapping/
 
 http://blog.jobbole.com/71913/
 Node.JS 学习路线图
+http://web.jobbole.com/82504/
+NodeJS 开发者的 10 个常见错误
+
+http://blogread.cn/it/article/4747?f=wb
+Node.js中相同模块是否会被加载多次？
+
+http://segmentfault.com/a/1190000002913884
+Node.js中spawn与exec的异同比较
+
+http://segmentfault.com/a/1190000002918295
+Nodejs 制作命令行工具
