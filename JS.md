@@ -100,3 +100,12 @@ JS3D模型
 
 http://www.codeceo.com/article/javascript-guide.html
 前端JS规范 非常详细
+
+http://blog.cipherc.com/2015/01/02/closure_in_javascript/
+JS中循环遍历时的闭包问题探究
+
+http://segmentfault.com/a/1190000002760773?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+从DOM选择器的返回值说起
+
+http://www.jb51.net/article/6813.htm
+javascript如何判断数组内元素是否重复的方法集锦
