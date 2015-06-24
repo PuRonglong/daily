@@ -109,3 +109,12 @@ http://segmentfault.com/a/1190000002760773?utm_source=Weibo&utm_medium=shareLink
 
 http://www.jb51.net/article/6813.htm
 javascript如何判断数组内元素是否重复的方法集锦
+
+http://www.cnblogs.com/tugenhua0707/p/4501843.html
+JS事件总结
+
+http://www.kuqin.com/shuoit/20150402/345533.html
+排序算法的JS实现
+
+http://blogread.cn/it/article/4616?f=wb
+javascript嵌套函数的效率问题
