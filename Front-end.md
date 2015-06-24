@@ -326,3 +326,10 @@ CSS动画 vs JS动画
 
 http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=207609334&amp;idx=1&amp;sn=c2b03d45ea66b9f4b20591b0b71ba1ba#rd&comefrom=http://blogread.cn/news/
 Web性能API——帮你分析前端性能
+
+http://xueduany.github.io/localstore/
+纯js实现突破localstorage的存储上限 并且可以保存远程服务器的网页，静态资源比如css,js,img全部离线下载到本地，并且还原
+有兴趣的 可以和我聊需求，代码开源
+
+http://blogread.cn/it/article/5024?f=wb
+浅谈Ddos攻击攻击与防御
