@@ -118,3 +118,18 @@ http://www.kuqin.com/shuoit/20150402/345533.html
 
 http://blogread.cn/it/article/4616?f=wb
 javascript嵌套函数的效率问题
+
+http://www.codeceo.com/article/javascript-9-sort-algorithms.html
+JavaScript实现的9大排序算法
+
+http://www.kuqin.com/shuoit/20150323/345365.html
+最详细的JavaScript和事件解读
+
+http://loo2k.com/blog/detecting-wechat-client/
+判断微信客户端的那些坑
+
+http://www.open-open.com/lib/view/open1431672854951.html
+用JavaScrtipt为图片添加水印：watermark.js
+
+http://div.io/topic/831?page=1#3664
+开发一个完整的JS组件
