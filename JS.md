@@ -133,3 +133,12 @@ http://www.open-open.com/lib/view/open1431672854951.html
 
 http://div.io/topic/831?page=1#3664
 开发一个完整的JS组件
+
+http://jinlong.github.io/2015/05/21/eliminate-javascript-code-smells/
+去吃JS代码的怪味：JS代码重构
+
+http://segmentfault.com/q/1010000002785720
+chrome 拦截javascript
+
+http://www.kuqin.com/shuoit/20150518/346122.html
+avaScript 作者 Brendan Eich 制作了一个幻灯片，回顾了他在 1995 年 5 月的 10 天内开发出 JS 语言，描绘了 JS 在当前的演化。
