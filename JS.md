@@ -142,3 +142,12 @@ chrome 拦截javascript
 
 http://www.kuqin.com/shuoit/20150518/346122.html
 avaScript 作者 Brendan Eich 制作了一个幻灯片，回顾了他在 1995 年 5 月的 10 天内开发出 JS 语言，描绘了 JS 在当前的演化。
+
+http://segmentfault.com/a/1190000002753931
+盘点JavaScript里好用的原生API ꒰･◡･๑꒱
+
+http://www.kuqin.com/shuoit/20150403/345557.html
+14款优秀的JavaScript调试工具大盘点
+
+https://frontenddev.org/link/conversion-of-tostring-and-the-valueof-javascript-object.html
+JavaScript 对象转换之 toString 和 valueOf
