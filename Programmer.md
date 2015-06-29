@@ -52,3 +52,12 @@ http://www.csdn.net/article/2014-07-17/2820694-Full-Stack
 
 http://rd.springer.com/article/10.1007/s11469-007-9118-0#page-1
 游戏本身并不像赌博吸毒这类hack人脑奖赏中枢的事情有成瘾性。游戏沉迷主要因为1)逃避现实和自己内心的痛苦2)寻找现实中无法实现的成就感。这就是说游戏沉迷只是症状，而非病因。具体研究可参这paper
+
+http://www.codeceo.com/article/non-programmer-ability.html
+如何提升程序员的非技术才能
+
+http://www.codeceo.com/article/programming-level.html
+程序员编程能力层次模型
+
+http://www.codeceo.com/article/better-programmer.html
+怎样才是理想的程序员
