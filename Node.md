@@ -29,3 +29,12 @@ Node.js中spawn与exec的异同比较
 
 http://segmentfault.com/a/1190000002918295
 Nodejs 制作命令行工具
+
+http://www.html-js.com/article/3021
+通过Node.js和Socket.io来实现手机的远程控制
+
+http://www.html-js.com/article/meitianxuedianjavascript-Nodejsmokuaijiekouqidashejimoshi
+Node.js模块接口七大设计模式
+
+http://tech.meituan.com/node-fullstack-development-practice.html
+美团酒店Node全栈开发实践
