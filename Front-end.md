@@ -333,3 +333,12 @@ http://xueduany.github.io/localstore/
 
 http://blogread.cn/it/article/5024?f=wb
 浅谈Ddos攻击攻击与防御
+
+http://nginx.com/blog/thread-pools-boost-performance-9x/
+详细讲解nginx
+
+http://dailyjs.com/2015/06/19/not-really-single-page-apps/
+Not Really Single Page Apps
+
+http://www.92fenxiang.com/34.html
+How to Become a Great JavaScript Developer
