@@ -151,3 +151,9 @@ http://www.kuqin.com/shuoit/20150403/345557.html
 
 https://frontenddev.org/link/conversion-of-tostring-and-the-valueof-javascript-object.html
 JavaScript 对象转换之 toString 和 valueOf
+
+http://www.chenjunxyf.me/javascriptzhong-zhen-zheng-de-ha-xi-ying-she-yi/
+JS中真正的哈希映射(译)
+
+http://segmentfault.com/a/1190000002801042
+深入剖析 JavaScript 的深复制
