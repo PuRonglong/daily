@@ -25,3 +25,12 @@ http://web.jobbole.com/82445/
 
 http://www.html-js.com/article/3003
 【译】15个必须知道的chrome开发者技巧(GIF)
+
+http://www.infoq.com/cn/articles/Internet-Explorer-Security1
+IE安全系列：IE浏览器的技术变迁（上）
+
+http://www.codeceo.com/article/chrome-javascript-memory.html
+Chrome开发者工具之JavaScript内存分析
+
+http://web.jobbole.com/82576/
+Chrome开发者工具不完全指南：（三、性能篇）
