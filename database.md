@@ -24,3 +24,15 @@ SQLSERVER排查CPU占用高的情况
 
 http://www.cnblogs.com/kerrycode/p/4550673.html
 SQL SERVER 中is null 和 is not null 将会导致索引失效吗？
+
+http://www.codeceo.com/article/mysql-from-yunwei.html
+从运维角度浅谈 MySQL 数据库优化
+
+http://blogread.cn/it/article/4958?f=wb
+【MySQL数据库中的5种数据类型简介】 以下的文章主要介绍的是MySQL数据类型，MySQL数据库中的5种数据类型是：字符型，文本型，数值型，逻辑型与日期型
+
+http://www.kuqin.com/shuoit/20150416/345742.html
+开发高性能的MongoDB应用：浅谈MongoDB性能优化
+
+http://www.techug.com/sql-select
+优化 SQL SELECT 语句性能的 6 个简单技巧
