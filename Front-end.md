@@ -342,3 +342,12 @@ Not Really Single Page Apps
 
 http://www.92fenxiang.com/34.html
 How to Become a Great JavaScript Developer
+
+http://wanqu.co/2015-05-22-fixing-engineerings-loyalty-and-longevity-problem.html
+工程团队如何留住人才
+
+http://www.w3ctech.com/topic/1397
+动画的现状(2014)
+
+http://segmentfault.com/a/1190000002587334?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+GitHub 上一份很受欢迎的前端代码优化指南
