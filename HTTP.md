@@ -15,3 +15,12 @@ http://www.codeceo.com/article/15-ways-prevent-ddos.html
 
 http://www.kuqin.com/shuoit/20150508/345951.html
 前端接入HTTP协议浅析
+
+http://blogread.cn/it/article/4604?f=wb
+如何根据http请求信息区分访问用户的国家、语言信息
+
+http://my.oschina.net/jeffli1993/blog/416894
+JavaEE 要懂的小事：一、图解Http协议
+
+http://www.kuqin.com/shuoit/20150524/346202.html
+透过浏览器看HTTP缓存
