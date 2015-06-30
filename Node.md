@@ -38,3 +38,14 @@ Node.js模块接口七大设计模式
 
 http://tech.meituan.com/node-fullstack-development-practice.html
 美团酒店Node全栈开发实践
+http://forum.memect.com/thread/web-2015-06-26-3858030279618334/
+Node.js详尽资源
+
+https://github.com/alsotang/node-lessons
+《Node.js 包教不包会》 -- by alsotang
+
+https://cnodejs.org/getstart
+nodejs入门资源
+
+http://www.dnodejs.com/all.html
+Nodejs每日分享
