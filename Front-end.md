@@ -351,3 +351,12 @@ http://www.w3ctech.com/topic/1397
 
 http://segmentfault.com/a/1190000002587334?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 GitHub 上一份很受欢迎的前端代码优化指南
+
+http://wanqu.co/2015-05-24-tooling-is-not-the-problem-of-the-web.html
+百花齐放的工具是Web的未来】希望浏览器可以把常用的库（比如jQuery、backbonejs、reactjs）缓存在客户端，如此的话，访问大部分网站就不用重复下载这些库了。
+
+http://segmentfault.com/a/1190000002920859
+[译]JavaScript ES6解构赋值指南
+
+http://www.html5cn.org/article-7400-1.html
+Web程序员最牛最实用的资源
