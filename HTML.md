@@ -12,3 +12,8 @@ http://www.html5cn.org/article-7189-1.html
 
 http://segmentfault.com/a/1190000002920762
 HTML5，不只是看上去很美（第三弹：萌萌哒拓扑图分组）
+http://www.imooc.com/article/1167
+十二款卓越工具帮你利用HTML 5创建动画效果
+
+http://www.imooc.com/article/1176
+常用meta整理
