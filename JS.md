@@ -157,3 +157,12 @@ JS中真正的哈希映射(译)
 
 http://segmentfault.com/a/1190000002801042
 深入剖析 JavaScript 的深复制
+
+http://segmentfault.com/a/1190000000474941?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+谈谈JavaScript中的void操作符
+
+http://www.html5cn.org/article-8169-1.html
+javascript定义全局变量的时候有var和没有var的区别
+
+http://blogread.cn/it/article/4809?f=wb
+Javascript绝句欣赏
