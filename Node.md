@@ -49,3 +49,7 @@ nodejs入门资源
 
 http://www.dnodejs.com/all.html
 Nodejs每日分享
+
+http://blog.risingstack.com/node-js-interview-questions/
+阮一峰：常见 Node.js 面试题，英文，下面是翻译：
+http://www.dnodejs.com/interview.html
