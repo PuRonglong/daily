@@ -36,3 +36,12 @@ Angular沉思录（一） 数据的双向绑定
 
 https://scotch.io/tutorials/easy-angularjs-forms-with-angular-formly
 Easy AngularJS Forms with angular-formly
+
+http://www.admin10000.com/document/6435.html
+面向AngularJS开发人员的21款实用工作流工具
+
+http://www.codeceo.com/article/15-angularjs-command.html
+15 个 Angular.js 应用扩展指令解析
+
+http://segmentfault.com/q/1010000002946133
+Angular控制器和指令的交互
