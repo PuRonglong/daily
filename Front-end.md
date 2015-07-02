@@ -1,5 +1,5 @@
-淘宝朴灵他们整理前端的东西
 https://github.com/JacksonTian/fks
+前端技能汇总 Frontend Knowledge Structure。很全
 
 http://www.html5cn.org/article-7941-1.html
 分享10款激发灵感的最新HTML5/CSS3应用
