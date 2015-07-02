@@ -35,3 +35,11 @@ http://www.codeceo.com/article/differ-between-https-and-http.html
 
 http://www.kuqin.com/shuoit/20150414/345707.html
 为什么 HTTP 有时候比 HTTPS 好？
+http://www.cnblogs.com/zuoxiaolong/p/4435486.html
+从日常开发说起，浅谈HTTP协议是做什么的。
+
+http://www.cnblogs.com/yjf512/p/4571705.html
+输入URL之后都发生了什么
+
+http://blog.jobbole.com/87509/
+如何生成每秒百万级别的 HTTP 请求？
