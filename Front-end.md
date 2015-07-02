@@ -360,3 +360,12 @@ http://segmentfault.com/a/1190000002920859
 
 http://www.html5cn.org/article-7400-1.html
 Web程序员最牛最实用的资源
+
+http://segmentfault.com/a/1190000002920768
+前端：将网站打造成单页面应用SPA（一）
+
+http://www.w3cplus.com/performance/performance-tools.html
+前端性能工具简介
+
+http://web.jobbole.com/82530/
+Web性能优化系列：借助响应式图片来改进网站图片显示
