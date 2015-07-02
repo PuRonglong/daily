@@ -166,3 +166,8 @@ javascript定义全局变量的时候有var和没有var的区别
 
 http://blogread.cn/it/article/4809?f=wb
 Javascript绝句欣赏
+http://segmentfault.com/a/1190000002812359?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+理解 JavaScript 中的 this 关键字
+
+http://www.kuqin.com/shuoit/20150410/345646.html
+轻松实现ajax登录时让浏览器保存密码
