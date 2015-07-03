@@ -369,3 +369,12 @@ http://www.w3cplus.com/performance/performance-tools.html
 
 http://web.jobbole.com/82530/
 Web性能优化系列：借助响应式图片来改进网站图片显示
+
+http://www.cnblogs.com/dojo-lzz/p/4591446.html
+Web性能优化：What? Why? How?
+
+http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html
+Sublime进阶使用
+
+http://blog.jobbole.com/87578/
+编程字体小汇总，总会有你喜欢的那一款！
