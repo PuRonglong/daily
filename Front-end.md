@@ -378,3 +378,12 @@ Sublime进阶使用
 
 http://blog.jobbole.com/87578/
 编程字体小汇总，总会有你喜欢的那一款！
+
+http://www.ido321.com/1596.html
+ECMAScript 6新特性介绍
+
+http://web.jobbole.com/82548/
+性能工具
+
+http://blog.jobbole.com/87733/
+浅谈大型web系统架构
