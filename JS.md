@@ -171,3 +171,12 @@ http://segmentfault.com/a/1190000002812359?utm_source=Weibo&utm_medium=shareLink
 
 http://www.kuqin.com/shuoit/20150410/345646.html
 轻松实现ajax登录时让浏览器保存密码
+
+http://blog.jobbole.com/87394/
+超大 Cookie 拒绝服务攻击
+
+http://www.w3ctech.com/topic/1242
+客户端/服务器 JavaScript生成PDF
+
+http://www.codeceo.com/article/javascript-plugin.html
+开发一个完整的JavaScript组件
