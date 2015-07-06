@@ -45,3 +45,6 @@ http://www.codeceo.com/article/15-angularjs-command.html
 
 http://segmentfault.com/q/1010000002946133
 Angular控制器和指令的交互
+
+http://blog.jobbole.com/76265/
+jQuery开发者眼中的AngularJS
