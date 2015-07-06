@@ -180,3 +180,12 @@ http://www.w3ctech.com/topic/1242
 
 http://www.codeceo.com/article/javascript-plugin.html
 开发一个完整的JavaScript组件
+
+http://www.kuqin.com/shuoit/20150410/345670.html
+JS教程
+
+http://segmentfault.com/q/1010000002880935
+javascript关于闭包的面试题
+
+http://web.jobbole.com/82446/
+每个Javascript开发者都应当知道的那些事
