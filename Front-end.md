@@ -395,3 +395,12 @@ http://yisibl.github.io/share/designer-debug-skills.html#/1
 
 http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x
 Ngnix原来采用异步、事件驱动的方法来处理连接性能尚可，然而其阻塞操作还是非常影响性能。NGINX1.7.11通过引入并实现了线程池机制，从而可以避免使用阻塞，将它推向了新的性能水平，带来的性能提升是之前的9倍
+
+http://www.imooc.com/learn/99?from=itblog
+阿当大话西游之WEB组件
+
+http://aprilorange.github.io/cram/#!javascript/1
+前端基础知识补完计划
+
+http://melon.github.io/blog/2014/12/16/translation-javascript-application-architecture-on-the-road-to-2015/
+【译】2015年JavaScript应用架构趋势
