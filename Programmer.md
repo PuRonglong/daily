@@ -61,3 +61,12 @@ http://www.codeceo.com/article/programming-level.html
 
 http://www.codeceo.com/article/better-programmer.html
 怎样才是理想的程序员
+
+http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=206311297&idx=1&sn=a8eba5d4392cb8e0ac4ae09a9f382212#rd
+这些哭笑不得的情景，每个程序员都可能面对
+
+http://blogread.cn/it/article/5050?f=wb
+关于程序员学英语的经验
+
+http://www.imooc.com/article/1147
+开发人员写博客的七个理由
