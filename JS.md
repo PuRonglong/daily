@@ -189,3 +189,12 @@ javascript关于闭包的面试题
 
 http://web.jobbole.com/82446/
 每个Javascript开发者都应当知道的那些事
+
+http://web.jobbole.com/8861/
+高效的JS单元测试
+
+http://web.jobbole.com/82459/
+利用同构JavaScript轻松解析URL
+
+http://www.kuqin.com/shuoit/20150605/346448.html
+对JavaScript优化及规范的一些感想
