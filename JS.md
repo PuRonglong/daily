@@ -216,3 +216,14 @@ JS问题：一个页面有两个script标签，这如何理解？
 
 http://blogread.cn/it/article/4940?f=wb
 Javascript 中的 call 和 apply
+
+https://github.com/wintercn/blog/issues/3
+闭包概念考证 #3
+http://www.cnblogs.com/winter-cn/archive/2009/05/16/1458390.html
+理解JavaScript面向对象的思路
+http://www.cnblogs.com/winter-cn/archive/2010/12/29/1919266.html
+CSS3:transform与transition背后的数学原理
+秋季校招快开始了，我来提前划个重点吧。贴几篇旧文供大家参考
+
+http://web.jobbole.com/82478/
+在JS数组指定位置插入元素
