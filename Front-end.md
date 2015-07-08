@@ -404,3 +404,6 @@ http://aprilorange.github.io/cram/#!javascript/1
 
 http://melon.github.io/blog/2014/12/16/translation-javascript-application-architecture-on-the-road-to-2015/
 【译】2015年JavaScript应用架构趋势
+
+http://segmentfault.com/q/1010000002933584
+web前端动态加载大量元素的方式最好是怎么实现
