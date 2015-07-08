@@ -207,3 +207,12 @@ javascript 之闭包-理解不了来找我
 
 http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering
 Javascript高性能动画与页面渲染
+
+http://segmentfault.com/a/1190000002753931
+盘点JavaScript里好用的原生API ꒰･◡･๑꒱
+
+http://segmentfault.com/q/1010000002895851
+JS问题：一个页面有两个script标签，这如何理解？
+
+http://blogread.cn/it/article/4940?f=wb
+Javascript 中的 call 和 apply
