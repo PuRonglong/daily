@@ -198,3 +198,12 @@ http://web.jobbole.com/82459/
 
 http://www.kuqin.com/shuoit/20150605/346448.html
 对JavaScript优化及规范的一些感想
+
+http://www.kuqin.com/shuoit/20150410/345667.html
+有了 Docker，用 JavaScript 框架开发的 Web 站点也能很好地支持网络爬虫的内容抓取
+
+http://www.cnblogs.com/geek12/p/4529573.html
+javascript 之闭包-理解不了来找我
+
+http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering
+Javascript高性能动画与页面渲染
