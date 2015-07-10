@@ -53,3 +53,9 @@ Nodejs每日分享
 http://blog.risingstack.com/node-js-interview-questions/
 阮一峰：常见 Node.js 面试题，英文，下面是翻译：
 http://www.dnodejs.com/interview.html
+
+http://segmentfault.com/a/1190000002953344
+Node.js模块加载过程module.js源码阅读
+
+https://github.com/dailyNode/node-daily
+node-daily 这个是我们一直在精心维护的 Node.js 可读性内容看，作为一线 Noder，我们会把我们审核过的不错的 Node.js 文章放进去，目前50+分类，几百篇文章，300+ 的 star，各位喜欢 Node.js 的关注一下，
