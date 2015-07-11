@@ -235,3 +235,12 @@ JavaScript 开发的45个经典技巧
 
 http://www.admin10000.com/document/6406.html
 nginx服务器安装及配置文件详解
+
+http://www.kuqin.com/shuoit/20150610/346519.html
+JavaScript面向对象精要(一)
+
+http://segmentfault.com/a/1190000002900676
+Javascript面向对象编程
+
+http://web.jobbole.com/82523/
+闭包初窥
