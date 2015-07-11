@@ -227,3 +227,11 @@ CSS3:transform与transition背后的数学原理
 
 http://web.jobbole.com/82478/
 在JS数组指定位置插入元素
+http://www.kuqin.com/shuoit/20150416/345749.html
+JavaScript最全编码规范
+
+http://www.codeceo.com/article/javascript-45-tips.html
+JavaScript 开发的45个经典技巧
+
+http://www.admin10000.com/document/6406.html
+nginx服务器安装及配置文件详解
