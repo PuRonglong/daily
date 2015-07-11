@@ -244,3 +244,12 @@ Javascript面向对象编程
 
 http://web.jobbole.com/82523/
 闭包初窥
+
+http://blogread.cn/it/article/4989?f=wb
+Javascript 静态类的实现
+
+http://web.jobbole.com/82526/
+闭包拾遗 & 垃圾回收机制
+
+http://www.cnblogs.com/tugenhua0707/p/4576074.html
+你所不了解的javascript操作DOM的细节知识点(一)
