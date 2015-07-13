@@ -289,3 +289,12 @@ JavaScript基于时间的动画算法
 
 http://web.jobbole.com/82531/
 Mozilla 官方JS教程：重新介绍 JavaScript
+
+http://www.w3cplus.com/performance/performance-tools.html
+JS性能分析：性能工具
+
+http://gold.xitu.io/entry/5584aa3ae4b09e372ef74449/view?from=timeline&isappinstalled=0
+JavaScript 內存優化
+
+http://web.jobbole.com/82540/
+7 个基本的 JS 函数
