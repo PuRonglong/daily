@@ -271,3 +271,12 @@ http://blogread.cn/it/article/5016?f=wb
 
 http://blog.jobbole.com/87576/
 如何用不到 30 行代码写一个模板引擎？
+
+http://blogread.cn/it/article/5027?f=wb
+延迟加载图片的jQuery插件-Lazy Load Plugin for JQuery
+
+http://www.codeceo.com/article/javascript-date.html
+JavaScript日期操作方法详解
+
+http://www.csdn.net/article/2015-06-15/2824965-es6-in-depth-iterators-and-the-for-of-loop
+【探秘ES6】系列专栏：迭代器和for-of循环
