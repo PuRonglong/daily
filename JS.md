@@ -262,3 +262,12 @@ JS学习笔记 - 分析 JavaScript 的执行顺序
 
 http://web.jobbole.com/82536/
 浅谈 JavaScript 处理树形结构的几个场景与方案
+
+http://frontenddev.org/article/coolie-pk-battle-with-webpack-1-js-file-consolidation-and-compression.html
+coolie PK webpack 之一：JS 文件的合并与压缩
+
+http://blogread.cn/it/article/5016?f=wb
+验证码的几个常见漏洞
+
+http://blog.jobbole.com/87576/
+如何用不到 30 行代码写一个模板引擎？
