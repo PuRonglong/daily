@@ -21,3 +21,9 @@ Unit testing React components without a DOM
 
 http://bee1314.iteye.com/blog/2149569
 从省市区多重级联想到的，react和jquery的差别
+
+http://www.infoq.com/cn/articles/react-jsx-and-component
+深入浅出React（三）：理解JSX和组件
+
+https://fakefish.github.io/react-webpack-cookbook/
+react与webpack
