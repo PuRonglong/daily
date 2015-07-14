@@ -27,3 +27,9 @@ http://www.infoq.com/cn/articles/react-jsx-and-component
 
 https://fakefish.github.io/react-webpack-cookbook/
 react与webpack
+
+https://github.com/tmallfe/tmallfe.github.io/issues/19
+干货来了，天猫的@sysu_学家 同学实践并整理了一篇《React Native 布局详解》，详细丰富的介绍了React Native布局的知识
+
+https://github.com/alexissan/ReactNativeWorkshop
+React Native, native iOS apps with JavaScript
