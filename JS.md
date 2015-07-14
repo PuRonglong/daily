@@ -307,3 +307,12 @@ apply与call的用法和区别
 
 https://github.com/jigsawye/javascript
 一份在 JavasScript 中被普遍使用的风格指南，十分全面，希望对前端开发者们有所帮助
+
+http://www.codeceo.com/article/how-to-become-a-great-javascript-developer.html
+如何成为一个伟大的 JavaScript 程序员
+
+http://www.javascripter.net/faq/comments.htm
+这里的注释包含了这种为了兼容的注释方法：论几种注释方法
+
+http://melon.github.io/blog/2015/03/13/leetcode-js-array-methods/
+一道能综合考察js的Array方法的题
