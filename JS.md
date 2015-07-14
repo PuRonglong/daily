@@ -298,3 +298,12 @@ JavaScript 內存優化
 
 http://web.jobbole.com/82540/
 7 个基本的 JS 函数
+
+http://www.codeceo.com/article/javascript-event-anay.html
+最详细的JavaScript和事件解读
+
+http://www.w3cfuns.com/home.php?mod=space&uid=5452020&do=blog&id=5406792
+apply与call的用法和区别
+
+https://github.com/jigsawye/javascript
+一份在 JavasScript 中被普遍使用的风格指南，十分全面，希望对前端开发者们有所帮助
