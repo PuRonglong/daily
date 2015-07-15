@@ -33,3 +33,6 @@ https://github.com/tmallfe/tmallfe.github.io/issues/19
 
 https://github.com/alexissan/ReactNativeWorkshop
 React Native, native iOS apps with JavaScript
+
+http://react.nodejs-china.org/t/react-native/1112
+React Native 如何调试？
