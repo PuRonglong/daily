@@ -316,3 +316,9 @@ http://www.javascripter.net/faq/comments.htm
 
 http://melon.github.io/blog/2015/03/13/leetcode-js-array-methods/
 一道能综合考察js的Array方法的题
+
+http://www.codeceo.com/article/javascript-scope-feature.html
+JavaScript高级特性 — 作用域
+
+http://www.codeceo.com/article/dom-explanation.html
+DOM之通俗易懂讲解
