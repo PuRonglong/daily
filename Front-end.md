@@ -416,3 +416,6 @@ http://www.codeceo.com/article/3-sort-quick-sort-improve.html
 
 http://www.codeceo.com/article/javascript-do-cookie.html
 Cookie介绍及JavaScript操作Cookie方法详解
+
+http://www.w3ctech.com/topic/1417?utm_source=tuicool
+Web与原生：我们得承认失败
