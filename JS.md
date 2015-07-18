@@ -322,3 +322,9 @@ JavaScript高级特性 — 作用域
 
 http://www.codeceo.com/article/dom-explanation.html
 DOM之通俗易懂讲解
+
+http://segmentfault.com/a/1190000002881997?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+再谈 JavaScript 异步编程
+
+http://www.codeceo.com/article/javascript-event-compatible.html
+JavaScript事件机制兼容性解决方案
