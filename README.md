@@ -4,7 +4,7 @@ collect and share some good articles about technology,idea,design,experience,or 
 
 The repository is used to show what i pay attention to daily,hoping for your exchange and discussion,always.
 
-## ·ÖÀà:
+## åˆ†ç±»:
 
 [Angular](https://github.com/PuRonglong/daily/blob/master/Angular.md)
 
