@@ -328,3 +328,13 @@ http://segmentfault.com/a/1190000002881997?utm_source=Weibo&utm_medium=shareLink
 
 http://www.codeceo.com/article/javascript-event-compatible.html
 JavaScript事件机制兼容性解决方案
+
+http://boke.io/gao-ding-nei-cun-xie-lou/
+搞定JavaScript内存泄漏
+
+http://blogread.cn/it/article/5132?f=wb
+JavaScript Slider效果实现思路
+
+https://github.com/coodict/javascript-in-one-pic
+Javascript in one pic
+https://raw.githubusercontent.com/coodict/javascript-in-one-pic/master/js%20in%20one%20pic.png
