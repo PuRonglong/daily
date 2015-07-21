@@ -338,3 +338,10 @@ JavaScript Slider效果实现思路
 https://github.com/coodict/javascript-in-one-pic
 Javascript in one pic
 https://raw.githubusercontent.com/coodict/javascript-in-one-pic/master/js%20in%20one%20pic.png
+
+http://web.jobbole.com/74199/
+JS中的数字
+
+https://github.com/wwsun/awesome-javascript
+Awesome JavaScript：了不起的JavaScript
+如果你对JavaScript的理解仅限于DOM操纵，页面动画等等，本列表将为你展现JavaScript更多的功能。本列表是一些优秀的网络资源的汇总，部分资料需要翻墙访问。
