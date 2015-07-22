@@ -354,3 +354,11 @@ JavaScript中bind、call、apply函数用法详解
 
 http://segmentfault.com/a/1190000002941748
 JavaScript 异步机制及应用 入门教程
+
+http://weibo.com/p/1001593859725275012517
+你决不可错过的JavaScript全栈教程：廖雪峰
+
+http://efe.baidu.com/blog/js-lints/
+JavaScript 代码静态质量检查
+我佛山人  2015-07-01  Check, Hint, JavaScript, Lint
+自鸿蒙初判，Brendan Eich 10 天捏出 Mocha 之后，即便进化成 EcmaScript，这个语言依旧毁誉相随。那些经过重重劫难，侥幸渡劫成功的苦主标识了诸多天坑（见 JavaScript Garden） —— 当然，你也可以称之 feature。据无责任乱猜，Douglas Crockford 也没少踩坑，于是才有了蝴蝶书《JavaScript: The Good Parts》，下雨天与 JSLint 一起使用会更配哟。
