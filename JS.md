@@ -345,3 +345,12 @@ JS中的数字
 https://github.com/wwsun/awesome-javascript
 Awesome JavaScript：了不起的JavaScript
 如果你对JavaScript的理解仅限于DOM操纵，页面动画等等，本列表将为你展现JavaScript更多的功能。本列表是一些优秀的网络资源的汇总，部分资料需要翻墙访问。
+
+http://segmentfault.com/a/1190000000502743?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+10个最好的 JavaScript 模板引擎
+
+http://www.codeceo.com/article/javascript-bind-call-apply.html
+JavaScript中bind、call、apply函数用法详解
+
+http://segmentfault.com/a/1190000002941748
+JavaScript 异步机制及应用 入门教程
