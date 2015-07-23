@@ -378,3 +378,9 @@ http://web.jobbole.com/54267/
 
 http://segmentfault.com/a/1190000000373243?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 [译] 如何恰当地学习 JavaScript
+
+http://segmentfault.com/a/1190000002962215
+javascript中对变量类型的判断
+
+http://www.nowcoder.com/ta/js-assessment
+本专题包括由易到难的50道JavaScript在线编程题，帮助各位前端爱好者进行JS能力自我评估及技能学习提高，欢迎加群讨论：462688309。题目均来自Github，
