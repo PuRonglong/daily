@@ -362,3 +362,13 @@ http://efe.baidu.com/blog/js-lints/
 JavaScript 代码静态质量检查
 我佛山人  2015-07-01  Check, Hint, JavaScript, Lint
 自鸿蒙初判，Brendan Eich 10 天捏出 Mocha 之后，即便进化成 EcmaScript，这个语言依旧毁誉相随。那些经过重重劫难，侥幸渡劫成功的苦主标识了诸多天坑（见 JavaScript Garden） —— 当然，你也可以称之 feature。据无责任乱猜，Douglas Crockford 也没少踩坑，于是才有了蝴蝶书《JavaScript: The Good Parts》，下雨天与 JSLint 一起使用会更配哟。
+
+http://segmentfault.com/a/1190000002640298
+JavaScript中的this陷阱的最全收集--没有之一
+当有人问起你JavaScript有什么特点的时候，你可能立马就想到了单线程、事件驱动、面向对象等一堆词语，但是如果真的让你解释一下这些概念，可能真解释不清楚。有句话这么说：如果你不能向一个6岁小孩解释清楚一个东西，那么你自己也不懂这个东西。这句话或许有点夸张，但是极其有道理。个人觉得，如果需要掌握一门语言，掌握它的API只是学了皮毛，理解这门语言的精髓才是重点。提及JavaScript的精髓，this、闭包、作用域链、函数是当之无愧的。这门语言正式因为这几个东西而变得魅力无穷。
+
+http://frontenddev.org/link/do-you-really-understand-what-is-new-in-the-javascript.html
+你真的了解 javascript 里的 new 了吗
+
+http://web.jobbole.com/82583/
+抽象语法树在 JavaScript 中的应用》在计算机科学中，抽象语法树（abstract syntax tree 或者缩写为 AST），或者语法树（syntax tree），是源代码的抽象语法结构的树状表现形式，这里特指编程语言的源代码
