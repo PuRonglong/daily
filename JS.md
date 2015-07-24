@@ -390,3 +390,9 @@ http://forum.memect.com/hashtag/2015-07-07+web/
 
 http://web.jobbole.com/82599/
 理解 Javascript 中变量的作用域
+
+http://blogread.cn/news/item.php?id=220&f=wb
+dynamics.js，一个基于物理的动画工具库，有比较详细的配置参数，支持 dom、svg 和 JS 对象，用来做点页面交互小动画还是不错的。
+
+http://www.nowcoder.com/discuss/1736?type=&order=0&pos=14&page=0?from=wb
+JavaScript 经典实例收集整理
