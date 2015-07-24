@@ -396,3 +396,10 @@ dynamics.js，一个基于物理的动画工具库，有比较详细的配置参
 
 http://www.nowcoder.com/discuss/1736?type=&order=0&pos=14&page=0?from=wb
 JavaScript 经典实例收集整理
+
+http://web.jobbole.com/82631/
+众所周知，JavaScript是单线程的编程，什么是单线程，就是说同一时间JavaScript只能执行一段代码，如果这段代码要执行很长时间，那么之后的代码只能尽情地等待它执行完才能有机会执行，不像人一样，人是多线程的，所以你可以一边观看某岛国动作片，一边尽情挥洒汗水。JavaScript单线程机制也是迫不得已，假设有多个线程，同时修改某个dom元素，那么到底是听哪个线程的呢？
+
+http://www.zwlme.com/frontend/array-unique.html
+最近前端面试遇到的的一个问题：怎样去掉Javascript的Array的重复项，并且实现排序。这个问题看起来简单，但是其实暗藏杀机。 考的不仅仅是实现这个功能，更能看出你对JS代码的深入理解。
+这几天想了一些方法，可以实现这个目的。
