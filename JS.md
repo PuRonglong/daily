@@ -384,3 +384,9 @@ javascript中对变量类型的判断
 
 http://www.nowcoder.com/ta/js-assessment
 本专题包括由易到难的50道JavaScript在线编程题，帮助各位前端爱好者进行JS能力自我评估及技能学习提高，欢迎加群讨论：462688309。题目均来自Github，
+
+http://forum.memect.com/hashtag/2015-07-07+web/
+谈谈Javascript语法里一些难点问题
+
+http://web.jobbole.com/82599/
+理解 Javascript 中变量的作用域
