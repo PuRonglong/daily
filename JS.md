@@ -403,3 +403,12 @@ http://web.jobbole.com/82631/
 http://www.zwlme.com/frontend/array-unique.html
 最近前端面试遇到的的一个问题：怎样去掉Javascript的Array的重复项，并且实现排序。这个问题看起来简单，但是其实暗藏杀机。 考的不仅仅是实现这个功能，更能看出你对JS代码的深入理解。
 这几天想了一些方法，可以实现这个目的。
+
+http://www.kuqin.com/shuoit/20150706/346930.html
+图解Javascript上下文与作用域，本文尝试阐述Javascript中的上下文与作用域背后的机制，主要涉及到执行上下文（execution context）、作用域链（scope chain）、闭包（closure）、this等概念。
+
+http://web.jobbole.com/82628/
+深入浅出jsonp
+
+http://www.w3cfuns.com/blog-5463057-5404243.html
+详述JavaScript的原生对象及其方法
