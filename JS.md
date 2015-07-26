@@ -422,3 +422,8 @@ JavaScript String 对象实例深入研究
 http://wwsun.me/posts/javascript-ast-tutorial.html
 JavaScript的语法解析与抽象语法树
 抽象语法树（Abstract Syntax Tree）也称为AST语法树，指的是源代码语法所对应的树状结构。也就是说，对于一种具体编程语言下的源代码，通过构建语法树的形式将源代码中的语句映射到树中的每一个节点上。
+
+http://www.smohan.net/blog/5029/
+几个JavaScript闭包的例子
+闭包就是函数的局部变量集合，只是这些局部变量在函数返回后会继续存在。闭包就是就是函数的“堆栈”在函数返回后并不释放，我们也可以理解为这些函数堆栈并不在栈上分配而是在堆上分配。当在一个函数内定义另外一个函数就会产生闭包。
+四个典型实例来由浅及深理解JavaScript闭包。
