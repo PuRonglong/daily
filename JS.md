@@ -430,3 +430,7 @@ http://www.smohan.net/blog/5029/
 
 http://www.html5cn.org/article-8412-1.html
  validate.js是一款强大的纯javascript表单验证插件。该表单验证插件提供跨框架和跨语言的数据验证方式，验证条件可以写在JSON数据中，被服务器和客户端共享。它支持日期时间的验证，并提供自定义的验证接口。 ...
+
+http://ourjs.com/detail/52fb82e13bd19c4814000001
+JavaScript专业八级测试，你能做对几道？
+
