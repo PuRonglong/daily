@@ -412,3 +412,9 @@ http://web.jobbole.com/82628/
 
 http://www.w3cfuns.com/blog-5463057-5404243.html
 详述JavaScript的原生对象及其方法
+
+http://huangxuan.me/js-module-7day/#/
+从小时候开始写 JavaScript 就很折腾模块化语法，这么恼人的问题 ECMA Script 工作小组一直到 ES6 Harmony 才达成模块化语法共识 O网页链接。在此之前，各种 JavaScript 库各自发明了不同的技术办法来达成模块化需求。 黄玄的分享十分精彩的说明了各阶段的技术演进
+
+http://www.codeceo.com/article/javascript-string-usage.html
+JavaScript String 对象实例深入研究
