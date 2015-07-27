@@ -434,3 +434,9 @@ http://www.html5cn.org/article-8412-1.html
 http://ourjs.com/detail/52fb82e13bd19c4814000001
 JavaScript专业八级测试，你能做对几道？
 
+http://www.codeceo.com/article/javascript-prototype.html
+JavaScript原型与原型链分析
+
+http://segmentfault.com/a/1190000002989513?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+[JavaScript 随笔] 继承的实现方式及原型概述
+
