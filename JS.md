@@ -445,3 +445,9 @@ http://www.imooc.com/article/1237
 
 http://segmentfault.com/a/1190000003013070?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 继承的实现方式及原型概述 | JavaScript 随笔
+
+http://brendaneich.github.io/ModernWeb.tw-2015/
+JS at 20演示
+
+http://web.jobbole.com/64771/
+JS基础工具清单
