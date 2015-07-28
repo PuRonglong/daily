@@ -440,3 +440,8 @@ JavaScript原型与原型链分析
 http://segmentfault.com/a/1190000002989513?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 [JavaScript 随笔] 继承的实现方式及原型概述
 
+http://www.imooc.com/article/1237
+在本文中，作者收集了一些比较常用的Javascript函数
+
+http://segmentfault.com/a/1190000003013070?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+继承的实现方式及原型概述 | JavaScript 随笔
