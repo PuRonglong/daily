@@ -451,3 +451,6 @@ JS at 20演示
 
 http://web.jobbole.com/64771/
 JS基础工具清单
+
+http://www.nowcoder.com/ta/js-assessment?from=s
+JS能力测评经典题
