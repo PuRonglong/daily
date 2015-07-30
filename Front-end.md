@@ -431,3 +431,6 @@ http://fex.baidu.com/blog/2015/07/front-end-test/
 
 https://www.reindex.io/blog/you-might-not-need-underscore/
 You Might Not Need Underscore
+
+http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
+[翻译] We have a problem with promises
