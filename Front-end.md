@@ -425,3 +425,9 @@ http://div.io/topic/908?page=1#3669
 
 https://github.com/snfed/attendance-records/issues
 苏宁前端
+
+http://fex.baidu.com/blog/2015/07/front-end-test/
+前端自动化测试探索，写得很详细，推荐给大家参考
+
+https://www.reindex.io/blog/you-might-not-need-underscore/
+You Might Not Need Underscore
