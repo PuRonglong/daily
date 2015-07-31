@@ -440,3 +440,6 @@ Web前端知识技能大汇总
 
 http://web.jobbole.com/82586/
 为什么我弃用Angular，转向React
+
+http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
+深入浅出ES6（五）：不定参数和默认参数
