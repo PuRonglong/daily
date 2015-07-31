@@ -434,3 +434,9 @@ You Might Not Need Underscore
 
 http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
 [翻译] We have a problem with promises
+
+http://www.codeceo.com/article/frontend-knowledge-structure.html
+Web前端知识技能大汇总
+
+http://web.jobbole.com/82586/
+为什么我弃用Angular，转向React
