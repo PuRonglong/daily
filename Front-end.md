@@ -443,3 +443,6 @@ http://web.jobbole.com/82586/
 
 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 深入浅出ES6（五）：不定参数和默认参数
+
+https://github.com/lifesinger/lifesinger.github.com/issues/141#issuecomment-16118746
+阿里前端的困局与突围 #141
