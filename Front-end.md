@@ -446,3 +446,6 @@ http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 
 https://github.com/lifesinger/lifesinger.github.com/issues/141#issuecomment-16118746
 阿里前端的困局与突围 #141
+
+http://www.jianshu.com/p/83e91317dcb9
+为什么整个互联网行业都缺前端工程师
