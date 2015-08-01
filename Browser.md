@@ -37,3 +37,6 @@ Chrome开发者工具不完全指南：（三、性能篇）
 
 http://www.webhek.com/add-styles-console
 最新发表【如何在浏览器控制台(console)里输出彩色样式调试信息】至于为什么要用这样的格式化效果，它能帮助你更好的在控制台(console)输出debug信息，更好的为调试程序服务。比如，严重错误或警告信息就需要用打个字体，醒目的颜色突出显示，你觉得呢，你会用这个
+
+http://www.admin10000.com/document/6588.html
+32种谷歌浏览器插件，程序员的福音
