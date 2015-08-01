@@ -449,3 +449,6 @@ https://github.com/lifesinger/lifesinger.github.com/issues/141#issuecomment-1611
 
 http://www.jianshu.com/p/83e91317dcb9
 为什么整个互联网行业都缺前端工程师
+
+http://caibaojian.com/2015-f2e-skill.html
+2015 前端[JS]工程师必知必会
