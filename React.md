@@ -36,3 +36,9 @@ React Native, native iOS apps with JavaScript
 
 http://react.nodejs-china.org/t/react-native/1112
 React Native 如何调试？
+
+http://www.html-js.com/article/3019
+React-Todos
+
+http://www.infoq.com/cn/articles/react-native-layout
+React Native探索（二）：布局篇
