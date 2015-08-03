@@ -458,3 +458,6 @@ http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/
 
 http://www.an7.me/1561
 前端代码优化带来搜索引擎高效地识别移动页面
+
+https://github.com/jayli/jayli.github.com/issues/18
+拔赤：前端技术的开放和封闭
