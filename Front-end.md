@@ -452,3 +452,9 @@ http://www.jianshu.com/p/83e91317dcb9
 
 http://caibaojian.com/2015-f2e-skill.html
 2015 前端[JS]工程师必知必会
+
+http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/
+我们真的缺前端工程师吗？
+
+http://www.an7.me/1561
+前端代码优化带来搜索引擎高效地识别移动页面
