@@ -461,3 +461,9 @@ http://www.an7.me/1561
 
 https://github.com/jayli/jayli.github.com/issues/18
 拔赤：前端技术的开放和封闭
+
+https://developers.google.com/web/fundamentals/performance/
+Google 的前端性能优化教程和资料，超级棒
+
+http://www.infoq.com/cn/articles/how-to-create-great-js-module
+优秀的JavaScript模块是怎样炼成的
