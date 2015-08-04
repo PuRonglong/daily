@@ -467,3 +467,9 @@ Google 的前端性能优化教程和资料，超级棒
 
 http://www.infoq.com/cn/articles/how-to-create-great-js-module
 优秀的JavaScript模块是怎样炼成的
+
+http://www.zensh.org/slides/
+ZENSH严清，广播一下我的 #深JS# slides，只给了 30 分钟没能细讲
+
+http://www.admin10000.com/document/6522.html
+2015年需要了解的前端框架和语言
