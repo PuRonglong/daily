@@ -473,3 +473,9 @@ ZENSH严清，广播一下我的 #深JS# slides，只给了 30 分钟没能细�
 
 http://www.admin10000.com/document/6522.html
 2015年需要了解的前端框架和语言
+
+http://www.codeceo.com/article/web-10-years.html
+详述JavaScript的原生对象及其方法
+
+http://web.jobbole.com/82625/
+《JavaScript内存泄露》最近简单了解了下JavaScript的闭包和垃圾回收机制（GC），这中间也不得不接触内存泄露这个概念。然后不小心找到了这篇文章，看下来后理解了不少东西，于是译之与大家分享
