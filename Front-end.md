@@ -479,3 +479,10 @@ http://www.codeceo.com/article/web-10-years.html
 
 http://web.jobbole.com/82625/
 《JavaScript内存泄露》最近简单了解了下JavaScript的闭包和垃圾回收机制（GC），这中间也不得不接触内存泄露这个概念。然后不小心找到了这篇文章，看下来后理解了不少东西，于是译之与大家分享
+
+http://codecloud.net/2015-web-app-4932.html
+在2015年 开发一个 Web App 必须了解的那些事
+
+http://www.cnblogs.com/sussski/p/4634595.html
+十年WEB技术发展历程
+一个小分享，知识有限，抛砖引玉
