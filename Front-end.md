@@ -486,3 +486,9 @@ http://codecloud.net/2015-web-app-4932.html
 http://www.cnblogs.com/sussski/p/4634595.html
 十年WEB技术发展历程
 一个小分享，知识有限，抛砖引玉
+
+http://fex.baidu.com/blog/2015/07/fex-weekly/
+FEX 技术周刊-2015/07/13：内容很多
+
+http://www.kuqin.com/shuoit/20150512/345996.html
+聊聊移动端跨平台开发的各种技术》最近出现的 React Native 再次让跨平台移动端开发这个话题火起来了，曾经大家以为在手机上可以像桌面那样通过 Web 技术来实现跨平台开发，却大多因为性能或功能问题而放弃，不得不针对不同平台开发多个版本
