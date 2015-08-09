@@ -507,3 +507,6 @@ http://www.nowcoder.com/ta/front-end?from=s
 前端技能挑战介绍
 前端技能在线测评挑战，欢迎各路小伙伴加入前端开发技术讨论QQ群 462688309
 CSS, HTML, Javascript 题目持续更新，欢迎收藏
+
+https://github.com/amfe/article/issues/3
+我理解的阿里无线前端“架构”（半鸡汤，少干货）
