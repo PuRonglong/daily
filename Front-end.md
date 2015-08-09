@@ -492,3 +492,7 @@ FEX 技术周刊-2015/07/13：内容很多
 
 http://www.kuqin.com/shuoit/20150512/345996.html
 聊聊移动端跨平台开发的各种技术》最近出现的 React Native 再次让跨平台移动端开发这个话题火起来了，曾经大家以为在手机上可以像桌面那样通过 Web 技术来实现跨平台开发，却大多因为性能或功能问题而放弃，不得不针对不同平台开发多个版本
+
+http://tech.meituan.com/frontend-component-practice.html
+前端组件化开发实践
+
