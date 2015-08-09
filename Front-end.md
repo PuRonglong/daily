@@ -496,3 +496,7 @@ http://www.kuqin.com/shuoit/20150512/345996.html
 http://tech.meituan.com/frontend-component-practice.html
 前端组件化开发实践
 
+http://weibo.com/p/1001603864951990185052
+七牛前端测试实践】长久以来，前端测试一直并未引起大家的重视。而经过一段时间的尝试和探索，七牛技术团队发现前端测试能给项目的开发带来极大利好
+
+
