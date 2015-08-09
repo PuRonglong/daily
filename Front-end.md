@@ -514,3 +514,7 @@ https://github.com/amfe/article/issues/3
 http://www.kuqin.com/shuoit/20150729/347291.html
 性能优化：一个全栈问题
 
+http://www.reqianduan.com/2928.html
+什么是AMD, CommonJS, UMD?
+原文: What is AMD CommonJS and UMD 简介 最近几年，我们可以选择的Javascript组件的生态系统一直在稳步增长。虽然陡增的选择范围是极好的，但当组件混合匹配使用时就会出现很尴尬的局面。开发新手们会很快发现不是所有组件都能彼此“和平相处”。 为了。。。
+另：这篇文章只是把AMD跟CommonJS做了一个对比，介绍得不很深入。阮一峰写过几篇专门介绍AMD开发的，那个比较详细。想看的话可以百度《Javascript模块化编程（一）》，还有（二）和（三）
