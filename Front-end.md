@@ -510,3 +510,7 @@ CSS, HTML, Javascript 题目持续更新，欢迎收藏
 
 https://github.com/amfe/article/issues/3
 我理解的阿里无线前端“架构”（半鸡汤，少干货）
+
+http://www.kuqin.com/shuoit/20150729/347291.html
+性能优化：一个全栈问题
+
