@@ -524,3 +524,6 @@ http://www.reqianduan.com/2886.html
 
 https://github.com/unruledboy/WebFrontEndStack
 目前“较为全面”的web前端开发技术栈，包括浏览器、框架、类库、工具等20个层级/类别约100个知识/技术点， 第一版，错漏难免，欢迎指正。GitHub地址：O网页链接 内容太多，图太小，点击看大图，或者去GitHub下载原图 O网页链接，晚点写博客
+
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207081298&idx=1&sn=53e8d6e02f62e454c2d6b14be038464a&scene=0#rd
+构建web前段异常监控系统
