@@ -527,3 +527,6 @@ https://github.com/unruledboy/WebFrontEndStack
 
 http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207081298&idx=1&sn=53e8d6e02f62e454c2d6b14be038464a&scene=0#rd
 构建web前段异常监控系统
+
+http://sofi.sh/how-eleme-works/
+如何在任何时候发布都不宕机，且200s 发布到所有机器？如何直接写 ES6 / CSS Next?
