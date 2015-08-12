@@ -67,3 +67,7 @@ Node.js 作为目前最热门的开发工具之一，怎样使用它开发命令
 
 http://segmentfault.com/a/1190000002989845?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 译/理解node事件循环
+
+http://wwsun.me/posts/node-best-practices.html
+Node.js编程建议（1）
+本文谈一谈Node.js的最佳实践，包括Node.js的代码风格以及开发者工作流。
