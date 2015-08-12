@@ -64,3 +64,6 @@ http://www.codeceo.com/article/node-js-command-develop.html
 Node.js 命令行程序开发教程
 一种编程语言是否易用，很大程度上，取决于开发命令行程序的能力。
 Node.js 作为目前最热门的开发工具之一，怎样使用它开发命令行程序，是 Web 开发者应该掌握的技能。
+
+http://segmentfault.com/a/1190000002989845?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+译/理解node事件循环
