@@ -71,3 +71,6 @@ http://segmentfault.com/a/1190000002989845?utm_source=Weibo&utm_medium=shareLink
 http://wwsun.me/posts/node-best-practices.html
 Node.js编程建议（1）
 本文谈一谈Node.js的最佳实践，包括Node.js的代码风格以及开发者工作流。
+
+http://gold.xitu.io/entry/55b6d630e4b007aa52999672
+nodejs最佳编程实践(1)，译
