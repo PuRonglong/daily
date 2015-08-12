@@ -74,3 +74,6 @@ Node.js编程建议（1）
 
 http://gold.xitu.io/entry/55b6d630e4b007aa52999672
 nodejs最佳编程实践(1)，译
+
+http://blog.fens.me/series-nodejs/
+从0开始nodejs系列
