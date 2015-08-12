@@ -59,3 +59,8 @@ Node.js模块加载过程module.js源码阅读
 
 https://github.com/dailyNode/node-daily
 node-daily 这个是我们一直在精心维护的 Node.js 可读性内容看，作为一线 Noder，我们会把我们审核过的不错的 Node.js 文章放进去，目前50+分类，几百篇文章，300+ 的 star，各位喜欢 Node.js 的关注一下，
+
+http://www.codeceo.com/article/node-js-command-develop.html
+Node.js 命令行程序开发教程
+一种编程语言是否易用，很大程度上，取决于开发命令行程序的能力。
+Node.js 作为目前最热门的开发工具之一，怎样使用它开发命令行程序，是 Web 开发者应该掌握的技能。
