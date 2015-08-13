@@ -42,3 +42,6 @@ React-Todos
 
 http://www.infoq.com/cn/articles/react-native-layout
 React Native探索（二）：布局篇
+
+http://www.infoq.com/cn/articles/react-art-of-simplity
+深入浅出React（一）：React的设计哲学 - 简单之美
