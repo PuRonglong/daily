@@ -536,3 +536,6 @@ Web性能：Facebook团队关于缓存效率的实践
 
 http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207161489&idx=1&sn=cd2a78eaff1f82902f118814a88e69ac&scene=0#rd
 web滚动性能优化实战
+
+http://blog.sina.com.cn/s/blog_690685c60101d96h.html
+前端工作了一段时间经验总结，献给做前端的同学
