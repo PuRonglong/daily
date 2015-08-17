@@ -85,3 +85,6 @@ CSS3教程:pointer-events属性值详解
 
 http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/
 解读CSS布局之-水平垂直居中
+
+http://www.css119.com/archives/1640
+jQuery Animation分析及Animation实现CSS3动画
