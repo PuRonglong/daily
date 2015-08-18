@@ -457,3 +457,6 @@ JS能力测评经典题
 
 http://www.nowcoder.com/ta/front-end?from=s
 前端技能挑战
+
+http://segmentfault.com/a/1190000003013733
+关于this的点滴
