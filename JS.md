@@ -463,3 +463,6 @@ http://segmentfault.com/a/1190000003013733
 
 http://blog.jobbole.com/52745/
 全栈式Javascript
+
+http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
+图解javascript上下文与作用域
