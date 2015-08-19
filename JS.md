@@ -472,3 +472,6 @@ http://liubin.github.io/promises-book/
 
 http://www.codeceo.com/article/javascript-delete-array.html
 JavaScript删除数组重复元素的5个高效算法
+
+http://www.codeceo.com/article/javascript-property-attribute.html
+JavaScript 中 Property 和 Attribute 的区别详解
