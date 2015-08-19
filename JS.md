@@ -469,3 +469,6 @@ http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
 
 http://liubin.github.io/promises-book/
 【JavaScript Promise迷你书（中文版）】本书的目的是以ECMAScript 6 Promises规范为中心，着重向各位读者介绍JavaScript中对Promise相关技术的支持情况。本书开放了PDF以及源码下载，学习JS Promise的朋友们可以收藏咯
+
+http://www.codeceo.com/article/javascript-delete-array.html
+JavaScript删除数组重复元素的5个高效算法
