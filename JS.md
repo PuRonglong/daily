@@ -460,3 +460,6 @@ http://www.nowcoder.com/ta/front-end?from=s
 
 http://segmentfault.com/a/1190000003013733
 关于this的点滴
+
+http://blog.jobbole.com/52745/
+全栈式Javascript
