@@ -466,3 +466,6 @@ http://blog.jobbole.com/52745/
 
 http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
 图解javascript上下文与作用域
+
+http://liubin.github.io/promises-book/
+【JavaScript Promise迷你书（中文版）】本书的目的是以ECMAScript 6 Promises规范为中心，着重向各位读者介绍JavaScript中对Promise相关技术的支持情况。本书开放了PDF以及源码下载，学习JS Promise的朋友们可以收藏咯
