@@ -475,3 +475,6 @@ JavaScript删除数组重复元素的5个高效算法
 
 http://www.codeceo.com/article/javascript-property-attribute.html
 JavaScript 中 Property 和 Attribute 的区别详解
+
+http://www.w3ctech.com/topic/1474
+JS性能优化杀手
