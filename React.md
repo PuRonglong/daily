@@ -48,3 +48,6 @@ http://www.infoq.com/cn/articles/react-art-of-simplity
 
 http://www.html-js.com/article/Reactjs%203046
 React使用总结
+
+https://github.com/dfguo/blog/issues/1
+《ReactEurope 大会参会感想》React 带来的革命性创新是前端世界过去几年最激动人心的变化
