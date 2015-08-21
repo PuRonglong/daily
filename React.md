@@ -54,3 +54,6 @@ https://github.com/dfguo/blog/issues/1
 
 http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/
 大搜车前端团队博客】的原创文章：《一个“三端”开发者眼中的React Native》作者：芋头
+
+http://segmentfault.com/a/1190000003032506
+如何科学的组织React组件样式
