@@ -63,3 +63,6 @@ https://github.com/soliury/noder-react-native
 
 http://segmentfault.com/a/1190000003076518
 React Native 简介：用 JavaScript 搭建 iOS 应用 (1)
+
+http://react-china.org/t/react/2091
+一个完整的react项目下来的总结
