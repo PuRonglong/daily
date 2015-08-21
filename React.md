@@ -51,3 +51,6 @@ React使用总结
 
 https://github.com/dfguo/blog/issues/1
 《ReactEurope 大会参会感想》React 带来的革命性创新是前端世界过去几年最激动人心的变化
+
+http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/
+大搜车前端团队博客】的原创文章：《一个“三端”开发者眼中的React Native》作者：芋头
