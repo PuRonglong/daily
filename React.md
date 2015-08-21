@@ -57,3 +57,6 @@ http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/
 
 http://segmentfault.com/a/1190000003032506
 如何科学的组织React组件样式
+
+https://github.com/soliury/noder-react-native
+开坑啦，Cnodejs React-Native 客户端，一个nodejs社区客户端，坑很大，欢迎入坑，可以容下很多人的坑[哈哈]，就是代码有点乱，稍后会整理一下，这个也是看了@寸志 老师翻译书后开始写的，谢谢@寸志 @范洪春 。
