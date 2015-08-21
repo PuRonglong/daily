@@ -539,3 +539,6 @@ web滚动性能优化实战
 
 http://blog.sina.com.cn/s/blog_690685c60101d96h.html
 前端工作了一段时间经验总结，献给做前端的同学
+
+https://github.com/unruledboy/WebFrontEndStack
+web前端开发技术栈，重写2.0
