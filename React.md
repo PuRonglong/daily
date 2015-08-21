@@ -60,3 +60,6 @@ http://segmentfault.com/a/1190000003032506
 
 https://github.com/soliury/noder-react-native
 开坑啦，Cnodejs React-Native 客户端，一个nodejs社区客户端，坑很大，欢迎入坑，可以容下很多人的坑[哈哈]，就是代码有点乱，稍后会整理一下，这个也是看了@寸志 老师翻译书后开始写的，谢谢@寸志 @范洪春 。
+
+http://segmentfault.com/a/1190000003076518
+React Native 简介：用 JavaScript 搭建 iOS 应用 (1)
