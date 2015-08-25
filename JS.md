@@ -478,3 +478,6 @@ JavaScript 中 Property 和 Attribute 的区别详解
 
 http://www.w3ctech.com/topic/1474
 JS性能优化杀手
+
+http://www.imooc.com/article/1402
+前端javascript规范
