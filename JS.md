@@ -26,6 +26,9 @@ http://bbs.html5cn.org/thread-86220-1-1.html
 http://segmentfault.com/a/1190000002688129?utm_source=APP&utm_medium=iOS&utm_campaign=socialShare
 【译】JavaScript最全编码规范
 
+http://www.codeceo.com/article/javascript-in-mobile.html
+为什么 JavaScript 会在移动端中胜出？
+
 http://web.jobbole.com/82346/
 你可能不知道的一些JavaScript 奇技淫巧
 
