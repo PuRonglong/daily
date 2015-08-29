@@ -85,6 +85,10 @@ CSS3教程:pointer-events属性值详解
 
 http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/
 解读CSS布局之-水平垂直居中
+很多人看了我这篇讲解居中的文章后,感触就是技巧真多,其实我想说这不是重点,重点是对居中的方法按照各布局模块进行了分类,能让你对布局有个系统的认识
 
 http://www.css119.com/archives/1640
 jQuery Animation分析及Animation实现CSS3动画
+
+http://www.w3cplus.com/css/css-layers.html
+CSS的命名与组织向来都是头痛的一件事情，很多团队都在追求一种解决方案，大家有没有考虑将CSS分层管理呢？你是否听过BEM、OOCSS 、SMACSS、ITCSS和SUIT等概念呢？这些仅是策略之一，命名规则或者方法并不是每个时候都能完美的适合所有项目。如果您对这方面感兴趣，欢迎猛击
