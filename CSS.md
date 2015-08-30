@@ -92,3 +92,8 @@ jQuery Animation分析及Animation实现CSS3动画
 
 http://www.w3cplus.com/css/css-layers.html
 CSS的命名与组织向来都是头痛的一件事情，很多团队都在追求一种解决方案，大家有没有考虑将CSS分层管理呢？你是否听过BEM、OOCSS 、SMACSS、ITCSS和SUIT等概念呢？这些仅是策略之一，命名规则或者方法并不是每个时候都能完美的适合所有项目。如果您对这方面感兴趣，欢迎猛击
+
+http://blogread.cn/it/article/5184?f=wb
+理解css中的长度单位
+很基础的一个问题，但是，其实看起来很复杂的样子～～我们来捋一捋吧～～
+css3中也对css中用到的单位进行了改进，单位也就是那几个，所以我们要搞清楚再用。
