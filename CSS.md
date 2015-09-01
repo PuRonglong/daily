@@ -108,3 +108,6 @@ http://www.cleardesign.me/stylin-with-css-note-1
 
 http://www.cnblogs.com/myvin/p/4621231.html
 纯CSS打造银色MacBook Air（完整版）
+
+http://blogread.cn/it/article/5334?f=wb
+【OverFlow – 一个秘密武器】 如果你已经理解了block formatting contexts那么请继续，否则请先看看这篇文章。 Overflow能够做一些很牛掰的事情，比如: 创建BFC (block formatt... 
