@@ -102,3 +102,6 @@ http://blogread.cn/it/article/5183?f=wb
 css3 calc()功能小窥
 之前，我们想要实现一个完美的宽度自适应的输入框好麻烦，曾经也被作为对前端技术的一个挑战。类似的常见场景还有100%宽+边框的容器等。遇到这些情况，我们不得不分外小心，因为各个浏览器的表现可能不一致。
 现在，firefox和webkit相继支持calc()功能了，我们也可以学习下了。
+
+http://www.cleardesign.me/stylin-with-css-note-1
+《CSS 设计指南》学习笔记 一
