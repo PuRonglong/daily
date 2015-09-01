@@ -105,3 +105,6 @@ css3 calc()功能小窥
 
 http://www.cleardesign.me/stylin-with-css-note-1
 《CSS 设计指南》学习笔记 一
+
+http://www.cnblogs.com/myvin/p/4621231.html
+纯CSS打造银色MacBook Air（完整版）
