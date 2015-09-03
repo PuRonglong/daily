@@ -546,3 +546,6 @@ web前端开发技术栈，重写2.0
 http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/
 勾三股四翻译的：如何成为一名卓越的前端工程师
 看过之后非常有感触，很多观点都是自己长期非常坚持和认同的，所以翻译出来分享给更多的前端同学！
+
+http://www.oschina.net/translate/42-mobile-landing-page-optimization-tips
+42 个移动端启动页面优化 Tips
