@@ -549,3 +549,7 @@ http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/
 
 http://www.oschina.net/translate/42-mobile-landing-page-optimization-tips
 42 个移动端启动页面优化 Tips
+
+http://caibaojian.com/frontend-base.html
+前端制作入门知识
+里面讲了许多的知识，非常适合刚进入前端的童鞋，就算一些有点基础的也会从中受益，通过本文，你将了解到制作中的那些元素解释、命名、布局、CSS重置、选择框架和设定等一系列前端入门知识。学习什么我觉得做好笔记很关键，平时遇到问题多多记录下来。
