@@ -553,3 +553,7 @@ http://www.oschina.net/translate/42-mobile-landing-page-optimization-tips
 http://caibaojian.com/frontend-base.html
 前端制作入门知识
 里面讲了许多的知识，非常适合刚进入前端的童鞋，就算一些有点基础的也会从中受益，通过本文，你将了解到制作中的那些元素解释、命名、布局、CSS重置、选择框架和设定等一系列前端入门知识。学习什么我觉得做好笔记很关键，平时遇到问题多多记录下来。
+
+http://www.cnblogs.com/coco1s/p/4725477.html
+清除页面广告？身为前端，自己做一款简易的Chrome扩展吧
+当然有现成的插件可以清除页面广告，但是既然身为一名程序猿，尤其是FEDer，为什么不尝试一下自己写一个清除广告的插件呢。其实，编写一个浏览器插件十分简单，尤其是chrome插件，可以完全使用前端技术（HTML/CSS/JS）完成一个自己编写的插件。让我们一步一步，学习一下如何编写一个简单的清除广告的插件，跟烦人的页面广告say goodbye
