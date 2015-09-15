@@ -484,3 +484,6 @@ JS性能优化杀手
 
 http://www.imooc.com/article/1402
 前端javascript规范
+
+http://www.codeceo.com/article/javascript-in-mobile.html
+为什么 JavaScript 会在移动端中胜出？
