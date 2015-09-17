@@ -560,3 +560,6 @@ http://www.cnblogs.com/coco1s/p/4725477.html
 
 http://www.pintu360.com/article/55c88039ebcfa38c359d00bb.html
 对于任何创业公司来说，提高团队工作效率都非常重要。现在就结合创业公司的具体工作需求和场景，给大家分享一些效率型工具，它们可以从团队协作、原型图设计、文件储存与共享、销售管理等不同方面提高创业公司的团队工作效率
+
+http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
+Web前端开发大系概览 （前端开发技术栈）
