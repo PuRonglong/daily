@@ -487,3 +487,6 @@ http://www.imooc.com/article/1402
 
 http://www.codeceo.com/article/javascript-in-mobile.html
 为什么 JavaScript 会在移动端中胜出？
+
+http://get.jobdeer.com/1544.get
+我写JavaScript代码已经很久了，都记不起是什么年代开始的了。对于JavaScript这种语言近几年所取得的成就，我感到非常的兴奋；我很幸运也是这些成就的获益者。我写了不少的文章，章节，还有一本专门讨论它的书，然而，我现在依然能发现一些关于这种语言的新知识。下面的描述的就是过去让我不由得发出“啊！”的感叹的编程技巧，这些技巧你应该现在就试试，而不是等着未来的某个时候偶然的发现它们。
