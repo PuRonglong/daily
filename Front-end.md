@@ -563,3 +563,6 @@ http://www.pintu360.com/article/55c88039ebcfa38c359d00bb.html
 
 http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
 Web前端开发大系概览 （前端开发技术栈）
+
+http://www.admin10000.com/document/6657.html
+大型网站技术架构的演进
