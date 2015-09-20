@@ -77,3 +77,6 @@ nodejs最佳编程实践(1)，译
 
 http://blog.fens.me/series-nodejs/
 从0开始nodejs系列
+
+http://blog.jobbole.com/53736/
+为什么我要用 Node.js? 案例逐一介绍
