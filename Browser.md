@@ -40,3 +40,6 @@ http://www.webhek.com/add-styles-console
 
 http://www.admin10000.com/document/6588.html
 32种谷歌浏览器插件，程序员的福音
+
+http://www.sitepoint.com/video-profiling-javascript-performance-in-chrome/
+英文视频推荐，在这个视频中，我将深入 Chrome 开发工具分析器并展示如何使用它来分析在浏览器中运行的 JavaScript 性能。
