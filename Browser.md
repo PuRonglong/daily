@@ -43,3 +43,6 @@ http://www.admin10000.com/document/6588.html
 
 http://www.sitepoint.com/video-profiling-javascript-performance-in-chrome/
 英文视频推荐，在这个视频中，我将深入 Chrome 开发工具分析器并展示如何使用它来分析在浏览器中运行的 JavaScript 性能。
+
+http://www.cnblogs.com/kaixinbocai/p/4734906.html
+浏览器类型鉴别那些事
