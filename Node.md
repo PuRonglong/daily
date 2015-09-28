@@ -80,3 +80,6 @@ http://blog.fens.me/series-nodejs/
 
 http://blog.jobbole.com/53736/
 为什么我要用 Node.js? 案例逐一介绍
+
+http://www.nodebeginner.org/index-zh-cn.html#javascript-and-nodejs
+node入门
