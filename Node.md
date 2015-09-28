@@ -83,3 +83,6 @@ http://blog.jobbole.com/53736/
 
 http://www.nodebeginner.org/index-zh-cn.html#javascript-and-nodejs
 node入门
+
+http://www.crimx.com/2014/05/22/learn-node-js-completely-and-with-confidence/
+不侧漏学习node
