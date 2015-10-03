@@ -493,3 +493,7 @@ http://get.jobdeer.com/1544.get
 
 http://yujiangshui.com/javascript-event/
 最详细的js事件解析——于江水
+
+http://web.jobbole.com/83303/
+JavaScript实现类的private、protected、public、static以及继承
+JavaScript实际上是一种弱类型语言，与C++和Java等语言不同。因此，在JavaScript中，没有强调类（class）这一概念，但实际运用中，类还是很重要的，比如写一款游戏，如果我们不停地调用函数来完成创建角色，移动角色的话，那会是什么样的呢？可能会出现非常多的重复代码，因此我们需要一个类来统一这些代码。
