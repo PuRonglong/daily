@@ -39,3 +39,6 @@ http://www.techug.com/sql-select
 
 http://www1.taosay.net/index.php/2014/12/01/
 我所理解的大数据
+
+http://www.waylau.com/mysql-backup-on-windows/
+Windows 下 MySQL 简单定时自动备份、删除过期备份
