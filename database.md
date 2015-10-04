@@ -36,3 +36,6 @@ http://www.kuqin.com/shuoit/20150416/345742.html
 
 http://www.techug.com/sql-select
 优化 SQL SELECT 语句性能的 6 个简单技巧
+
+http://www1.taosay.net/index.php/2014/12/01/
+我所理解的大数据
