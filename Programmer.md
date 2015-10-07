@@ -70,3 +70,6 @@ http://blogread.cn/it/article/5050?f=wb
 
 http://www.imooc.com/article/1147
 开发人员写博客的七个理由
+
+http://www.imooc.com/article/1136
+程序员究竟该如何提高效率
