@@ -580,3 +580,6 @@ http://geek.csdn.net/news/detail/37950
 http://overflowstack.github.io/
 爆栈:系统开发技术栈：Web前端开发技术栈、数据库技术栈、.NET技术栈，
 做的不错
+
+http://www.codeceo.com/article/nginx-setup-step.html
+nginx服务器安装和配置
