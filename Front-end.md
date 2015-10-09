@@ -583,3 +583,6 @@ http://overflowstack.github.io/
 
 http://www.codeceo.com/article/nginx-setup-step.html
 nginx服务器安装和配置
+
+http://laravel.so/tricks/8bd37fa116a23bfa93730d2466874e05
+获取当前URL的多种方法
