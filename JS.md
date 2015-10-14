@@ -508,3 +508,6 @@ WEB开发中经常会用到倒计时来限制用户对表单的操作，比如�
 http://web.jobbole.com/83360/
 js事件循环详解
 伴随着JavaScript这种web浏览器脚本语言的普及，对它的事件驱动交互模型，以及它与Ruby、Python和Java中常见的请求-响应模型的区别有一个基本了解，对您是有益的。在这篇文章中，我将解释一些JavaScript并发模型的核心概念，包括其事件循环和消息队列，希望能够提升你对一种语言的理解，这种语言你可能已经在使用但也许并不完全理解。
+
+http://f2e.souche.com/blog/domde-attributehe-property/
+DOM中Property与Attribute的区别
