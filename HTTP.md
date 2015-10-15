@@ -43,3 +43,6 @@ http://www.cnblogs.com/yjf512/p/4571705.html
 
 http://blog.jobbole.com/87509/
 如何生成每秒百万级别的 HTTP 请求？
+
+http://www.codeceo.com/article/avoid-ddos-on-apache.html
+如何在 Apache 中抵御暴力破解和 DDos 攻击
