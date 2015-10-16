@@ -511,3 +511,6 @@ js事件循环详解
 
 http://f2e.souche.com/blog/domde-attributehe-property/
 DOM中Property与Attribute的区别
+
+http://blogread.cn/it/article/5912?f=wb
+js运算符
