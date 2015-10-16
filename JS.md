@@ -525,3 +525,11 @@ JS数组去重算法实现
 
 http://dmitryfrank.com/articles/js_closures
 JS闭包图文详解，英文
+
+http://www.codeceo.com/article/javascript-high-performance.html
+编写高性能JS
+很多JavaScript引擎，如Google的V8引擎（被Chrome和Node所用），是专门为需要快速执行的大型JavaScript应用所设计的。如果你是一个开发者，并且关心内存使用情况与页面性能，你应该了解用户浏览器中的JavaScript引擎是如何运作的。无论是V8，SpiderMonkey的（Firefox）的Carakan（Opera），Chakra（IE）或其他引擎，这样做可以帮助你更好地优化你的应用程序。这并不是说应该专门为某一浏览器或引擎做优化，千万别这么做。
+但是，你应该问自己几个问题：
+在我的代码里，是否可以使代码更高效一些
+主流的JavaScript引擎都做了哪些优化
+什么是引擎无法优化的，垃圾回收器（GC）是否能回收我所期望的东西
