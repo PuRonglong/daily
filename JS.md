@@ -536,3 +536,6 @@ http://www.codeceo.com/article/javascript-high-performance.html
 
 http://www.codeceo.com/article/javascript-client-detect.html
 Javascript客户端检测技术
+
+http://www.codeceo.com/article/javascript-asyn-evolution.html
+细说JS异步函数发展历程
