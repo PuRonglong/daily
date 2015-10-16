@@ -517,3 +517,8 @@ js运算符
 
 http://www.ibm.com/developerworks/cn/web/wa-jsmemory/index.html
 JS内存泄漏
+
+http://www.cnblogs.com/wteam-xq/p/4732351.html
+JS数组去重算法实现
+之前一段时间一直在准备面试， 因而博客太久没更新； 现在基本知识点都复习完毕， 接下来就分享下 面试的一些常见问题：
+去正规的互联网公司笔试、面试有很大的概率会碰到 使用javascript实现数组去重 的编码问题，下面列出了5种方法，并附上demo和源码
