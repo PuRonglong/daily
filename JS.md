@@ -514,3 +514,6 @@ DOM中Property与Attribute的区别
 
 http://blogread.cn/it/article/5912?f=wb
 js运算符
+
+http://www.ibm.com/developerworks/cn/web/wa-jsmemory/index.html
+JS内存泄漏
