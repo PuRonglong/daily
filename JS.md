@@ -533,3 +533,6 @@ http://www.codeceo.com/article/javascript-high-performance.html
 在我的代码里，是否可以使代码更高效一些
 主流的JavaScript引擎都做了哪些优化
 什么是引擎无法优化的，垃圾回收器（GC）是否能回收我所期望的东西
+
+http://www.codeceo.com/article/javascript-client-detect.html
+Javascript客户端检测技术
