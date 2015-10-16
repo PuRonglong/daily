@@ -539,3 +539,6 @@ Javascript客户端检测技术
 
 http://www.codeceo.com/article/javascript-asyn-evolution.html
 细说JS异步函数发展历程
+
+http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
+图解Javascript上下文与作用域》本文尝试阐述Javascript中的上下文与作用域背后的机制，主要涉及到执行上下文（execution context）、作用域链（scope chain）、闭包（closure）、this等概念。
