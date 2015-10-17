@@ -545,3 +545,6 @@ http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
 
 http://web.jobbole.com/82628/
 深入浅出jsonp
+
+http://web.jobbole.com/83399/
+《如何成为一个JavaScript 大牛？》在成长的过程中，我的兴趣点不断发散，而且都是看似不相关的领域。我喜欢数学正如我喜欢历史一样。我的目标是成为一个 多才多艺的人 – 博学者-，能在多个领域成为优秀人才。
