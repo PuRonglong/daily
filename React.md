@@ -66,3 +66,6 @@ React Native 简介：用 JavaScript 搭建 iOS 应用 (1)
 
 http://react-china.org/t/react/2091
 一个完整的react项目下来的总结
+
+http://blog.tangyouhua.com/2015-08-31
+孔明前端团队react项目新手指南
