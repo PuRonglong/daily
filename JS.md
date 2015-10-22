@@ -554,3 +554,6 @@ https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md
 
 http://www.w3ctech.com/topic/1474
 JS性能杀手
+
+http://www.cnblogs.com/wangfupeng1988/p/4001284.html
+深入理解JS原型和闭包系列
