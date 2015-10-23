@@ -557,3 +557,6 @@ JS性能杀手
 
 http://www.cnblogs.com/wangfupeng1988/p/4001284.html
 深入理解JS原型和闭包系列
+
+http://www.codeceo.com/article/javascript-in-mobile.html
+为什么 JavaScript 会在移动端中胜出？
