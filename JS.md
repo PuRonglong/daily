@@ -557,3 +557,6 @@ http://www.cnblogs.com/wangfupeng1988/p/4001284.html
 
 http://www.codeceo.com/article/javascript-in-mobile.html
 为什么 JavaScript 会在移动端中胜出？
+
+http://web.jobbole.com/83518/
+JS常用数组算法总结
