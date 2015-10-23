@@ -543,9 +543,6 @@ http://www.codeceo.com/article/javascript-asyn-evolution.html
 http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
 图解Javascript上下文与作用域》本文尝试阐述Javascript中的上下文与作用域背后的机制，主要涉及到执行上下文（execution context）、作用域链（scope chain）、闭包（closure）、this等概念。
 
-http://web.jobbole.com/82628/
-深入浅出jsonp
-
 http://web.jobbole.com/83399/
 《如何成为一个JavaScript 大牛？》在成长的过程中，我的兴趣点不断发散，而且都是看似不相关的领域。我喜欢数学正如我喜欢历史一样。我的目标是成为一个 多才多艺的人 – 博学者-，能在多个领域成为优秀人才。
 
