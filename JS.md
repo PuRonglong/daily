@@ -557,3 +557,6 @@ http://www.codeceo.com/article/javascript-in-mobile.html
 
 http://web.jobbole.com/83518/
 JS常用数组算法总结
+
+http://segmentfault.com/a/1190000003733107
+js函数式编程之函数柯里化
