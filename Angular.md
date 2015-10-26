@@ -51,3 +51,6 @@ jQuery开发者眼中的AngularJS
 
 http://greengerong.github.io/blog/2015/06/16/angularzhong-de-mvvmmo-shi/
 angular中的MVVM模式
+
+http://blog.jobbole.com/87995/
+AngularJS 入门教学视频【持续更新中】
