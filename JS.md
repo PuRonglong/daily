@@ -563,3 +563,6 @@ js函数式编程之函数柯里化
 
 http://www.w3ctech.com/topic/1516
 怎么写JS组件的CSS
+
+http://yijiebuyi.com/blog/1220beaebf7aeb1095505791919844a1.html
+一介布衣：漫谈Javascript单线程异步回调的io特性
