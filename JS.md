@@ -566,3 +566,6 @@ http://www.w3ctech.com/topic/1516
 
 http://yijiebuyi.com/blog/1220beaebf7aeb1095505791919844a1.html
 一介布衣：漫谈Javascript单线程异步回调的io特性
+
+http://caibaojian.com/cross-domain-method.html?fid=0#0-tsina-1-56391-397232819ff9a47a7b7e80a40613cfe1
+JS跨域总结
