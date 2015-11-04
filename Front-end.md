@@ -598,3 +598,7 @@ http://segmentfault.com/a/1190000003690828?utm_source=Weibo&utm_medium=shareLink
 
 http://www.reqianduan.com/3165.html
 估计很多前端人员都知道FontAwesome是一套免费而且好用的Web字体图标，只要在CSS引入这个字体icon，它就可以直接通过class来生成一个图标，而且免费使用。目前图标数量已经更新至585个之多，包含常用的APP UI应用图标、品牌图标等。今天教大家如何将FontAwesome直接在Photoshop或AI上使用，这样日后做UI设计也方便多了，下面我们说说方法。
+
+https://github.com/xufei/blog/issues/5
+构建单页web应用
+所谓单页应用，指的是在一个页面上集成多种功能
