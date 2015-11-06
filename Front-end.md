@@ -602,3 +602,6 @@ http://www.reqianduan.com/3165.html
 https://github.com/xufei/blog/issues/5
 构建单页web应用
 所谓单页应用，指的是在一个页面上集成多种功能
+
+http://python.jobbole.com/82000/
+使用python爬虫抓站的一些技巧
