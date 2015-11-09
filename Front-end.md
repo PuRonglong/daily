@@ -605,3 +605,7 @@ https://github.com/xufei/blog/issues/5
 
 http://python.jobbole.com/82000/
 使用python爬虫抓站的一些技巧
+
+http://www.html5cn.org/article-7214-1.html
+幽灵按钮的应用，25个网
+幽灵按钮（Ghost Buttons）是指具备基本的按钮形状的透明按钮，但有细实线的边框。有些幽灵按钮是互动的，点击之后按钮可能会成为不透明的，白色或其他颜色的背景突出。
