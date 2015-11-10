@@ -609,3 +609,11 @@ http://python.jobbole.com/82000/
 http://www.html5cn.org/article-7214-1.html
 幽灵按钮的应用，25个网
 幽灵按钮（Ghost Buttons）是指具备基本的按钮形状的透明按钮，但有细实线的边框。有些幽灵按钮是互动的，点击之后按钮可能会成为不透明的，白色或其他颜色的背景突出。
+
+http://www.html-js.com/article/2402
+淘宝手机上一些文字单位的讨论
+讨论方案之前，需要先了解三个关键概念：
+单位英寸像素数（Pixel Per Inch，PPI）：现实世界的一英寸内像素数，决定了屏幕的显示质量
+设备像素比率（Device Pixel Ratio，DPR）：物理像素与逻辑像素（px）的对应关系
+分辨率（Resolution）：屏幕区域的宽高所占像素数
+当我们决定不同屏幕的字体和尺寸的单位时，屏幕的这几个参数非常重要。
