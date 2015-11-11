@@ -621,3 +621,8 @@ http://www.html-js.com/article/2402
 http://f2er.info/article/12
 webapp技术总结：
 如果你是一名前端er,又想在移动设备上开发出自己的应用，那怎么实现呢？幸好，webkit内核的浏览器能帮助我们完成这一切。接触 webkit webApp的开发已经有一段时间了，现把一些技巧分享给大家 
+
+http://www.cnblogs.com/lvdabao/p/mean-techstack-angular.html
+用“MEAN”技术栈开发web应用（一）AngularJs前端架构
+前言
+不知何时突然冒出“MEAN技术栈”这个新词，听起来很牛逼的样子，其实就是我们已经熟悉了的近两年在前端比较流行的技术，mongodb、express、angularjs、nodejs，由于这几项技术涵盖了从前端到后端再到数据库，可以用他们完整的开发一个web应用了，所以成了一个非常牛逼的组合，颇有当年LAMP的气势。前端要从切图仔迈向全栈的路上，这几门技术必须得有所涉猎。本系列文章利用自己虚构的一个小项目为例，对“使用MEAN技术栈开发web应用”做一个入门级的介绍。
