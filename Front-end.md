@@ -617,3 +617,7 @@ http://www.html-js.com/article/2402
 设备像素比率（Device Pixel Ratio，DPR）：物理像素与逻辑像素（px）的对应关系
 分辨率（Resolution）：屏幕区域的宽高所占像素数
 当我们决定不同屏幕的字体和尺寸的单位时，屏幕的这几个参数非常重要。
+
+http://f2er.info/article/12
+webapp技术总结：
+如果你是一名前端er,又想在移动设备上开发出自己的应用，那怎么实现呢？幸好，webkit内核的浏览器能帮助我们完成这一切。接触 webkit webApp的开发已经有一段时间了，现把一些技巧分享给大家 
