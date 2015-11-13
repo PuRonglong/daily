@@ -640,3 +640,6 @@ http://blog.rainy.im/2015/09/02/web-content-and-main-image-extractor/
 
 http://weibo.com/p/1001603886682473655027
 前端性能优化之预加载，提高资源加载速度
+
+http://fxck.it/post/115639554159
+web开发后端缓存思路(nodejs包教不会作者）
