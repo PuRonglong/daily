@@ -558,59 +558,59 @@ http://www.cnblogs.com/coco1s/p/4725477.html
 清除页面广告？身为前端，自己做一款简易的Chrome扩展吧
 当然有现成的插件可以清除页面广告，但是既然身为一名程序猿，尤其是FEDer，为什么不尝试一下自己写一个清除广告的插件呢。其实，编写一个浏览器插件十分简单，尤其是chrome插件，可以完全使用前端技术（HTML/CSS/JS）完成一个自己编写的插件。让我们一步一步，学习一下如何编写一个简单的清除广告的插件，跟烦人的页面广告say goodbye
 
-http://www.pintu360.com/article/55c88039ebcfa38c359d00bb.html
+http://www.pintu360.com/article/55c88039ebcfa38c359d00bb.html<br  />
 对于任何创业公司来说，提高团队工作效率都非常重要。现在就结合创业公司的具体工作需求和场景，给大家分享一些效率型工具，它们可以从团队协作、原型图设计、文件储存与共享、销售管理等不同方面提高创业公司的团队工作效率
 
-http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
+http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html<br  />
 Web前端开发大系概览 （前端开发技术栈）
 
-http://www.admin10000.com/document/6657.html
+http://www.admin10000.com/document/6657.html<br  />
 大型网站技术架构的演进
 
-http://www.techug.com/front-end
+http://www.techug.com/front-end<br  />
 这是前端最好的时代-论前端的“三化”建设
 S中国开发者大会于7月11-12日在深圳成功举办。该大会号称JavaScript和Node.js领域含金量最高的技术分享大会，聚集了来自国内外20多位讲师及大量JS技术爱好者，几乎涵盖了JS领域的所有热点话题。会后，腾讯AlloyTeam李成熙特别撰写了该文章，分享了他参会的所见所感。
 
-http://f2er.info/article/1
+http://f2er.info/article/1<br  />
 web前端百科图
 
-http://geek.csdn.net/news/detail/37950
+http://geek.csdn.net/news/detail/37950<br  />
 用户体验设计不得不看的行业名博
 
-http://overflowstack.github.io/
+http://overflowstack.github.io/<br  />
 爆栈:系统开发技术栈：Web前端开发技术栈、数据库技术栈、.NET技术栈，
 做的不错
 
-http://www.codeceo.com/article/nginx-setup-step.html
+http://www.codeceo.com/article/nginx-setup-step.html<br  />
 nginx服务器安装和配置
 
-http://laravel.so/tricks/8bd37fa116a23bfa93730d2466874e05
+http://laravel.so/tricks/8bd37fa116a23bfa93730d2466874e05<br  />
 获取当前URL的多种方法
 
-http://lizheming.github.io/wtf-html-css/
+http://lizheming.github.io/wtf-html-css/<br  />
 HTML和CSS的那些坑
 
-http://www.cnblogs.com/bigbrother1984/p/4140685.html
+http://www.cnblogs.com/bigbrother1984/p/4140685.html<br  />
 目前需求中涉及到大量的异步操作，实际的页面越来越倾向于单页面应用。以后可以会使用backbone、angular、knockout等框架，但是关于异步编程的问题是首先需要面对的问题。随着node的兴起，异步编程成为一个非常热的话题
 
 http://segmentfault.com/a/1190000003690828?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 前端中的变换矩阵
 
-http://www.reqianduan.com/3165.html
+http://www.reqianduan.com/3165.html<br  />
 估计很多前端人员都知道FontAwesome是一套免费而且好用的Web字体图标，只要在CSS引入这个字体icon，它就可以直接通过class来生成一个图标，而且免费使用。目前图标数量已经更新至585个之多，包含常用的APP UI应用图标、品牌图标等。今天教大家如何将FontAwesome直接在Photoshop或AI上使用，这样日后做UI设计也方便多了，下面我们说说方法。
 
-https://github.com/xufei/blog/issues/5
+https://github.com/xufei/blog/issues/5<br  />
 构建单页web应用
 所谓单页应用，指的是在一个页面上集成多种功能
 
-http://python.jobbole.com/82000/
+http://python.jobbole.com/82000/<br  />
 使用python爬虫抓站的一些技巧
 
-http://www.html5cn.org/article-7214-1.html
+http://www.html5cn.org/article-7214-1.html<br  />
 幽灵按钮的应用，25个网
 幽灵按钮（Ghost Buttons）是指具备基本的按钮形状的透明按钮，但有细实线的边框。有些幽灵按钮是互动的，点击之后按钮可能会成为不透明的，白色或其他颜色的背景突出。
 
-http://www.html-js.com/article/2402
+http://www.html-js.com/article/2402<br  />
 淘宝手机上一些文字单位的讨论
 讨论方案之前，需要先了解三个关键概念：
 单位英寸像素数（Pixel Per Inch，PPI）：现实世界的一英寸内像素数，决定了屏幕的显示质量
@@ -618,11 +618,11 @@ http://www.html-js.com/article/2402
 分辨率（Resolution）：屏幕区域的宽高所占像素数
 当我们决定不同屏幕的字体和尺寸的单位时，屏幕的这几个参数非常重要。
 
-http://f2er.info/article/12
+http://f2er.info/article/12<br  />
 webapp技术总结：
 如果你是一名前端er,又想在移动设备上开发出自己的应用，那怎么实现呢？幸好，webkit内核的浏览器能帮助我们完成这一切。接触 webkit webApp的开发已经有一段时间了，现把一些技巧分享给大家 
 
-http://www.cnblogs.com/lvdabao/p/mean-techstack-angular.html
+http://www.cnblogs.com/lvdabao/p/mean-techstack-angular.html<br  />
 用“MEAN”技术栈开发web应用（一）AngularJs前端架构
 前言
 不知何时突然冒出“MEAN技术栈”这个新词，听起来很牛逼的样子，其实就是我们已经熟悉了的近两年在前端比较流行的技术，mongodb、express、angularjs、nodejs，由于这几项技术涵盖了从前端到后端再到数据库，可以用他们完整的开发一个web应用了，所以成了一个非常牛逼的组合，颇有当年LAMP的气势。前端要从切图仔迈向全栈的路上，这几门技术必须得有所涉猎。本系列文章利用自己虚构的一个小项目为例，对“使用MEAN技术栈开发web应用”做一个入门级的介绍。
