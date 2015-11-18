@@ -499,62 +499,62 @@ http://tech.meituan.com/frontend-component-practice.html
 http://weibo.com/p/1001603864951990185052
 七牛前端测试实践】长久以来，前端测试一直并未引起大家的重视。而经过一段时间的尝试和探索，七牛技术团队发现前端测试能给项目的开发带来极大利好
 
-http://www.ido321.com/1604.html
+http://www.ido321.com/1604.html<br  />
 【译】18个网站优化技巧
 快速的页面加载对提升搜索引擎排名、网站转化率和整体的用户体验是非常重要的。网站页面的加载速度也是衡量网站性能的一个重要因素。
 
-http://www.nowcoder.com/ta/front-end?from=s
+http://www.nowcoder.com/ta/front-end?from=s<br  />
 前端技能挑战介绍
 前端技能在线测评挑战，欢迎各路小伙伴加入前端开发技术讨论QQ群 462688309
 CSS, HTML, Javascript 题目持续更新，欢迎收藏
 
-https://github.com/amfe/article/issues/3
+https://github.com/amfe/article/issues/3<br  />
 我理解的阿里无线前端“架构”（半鸡汤，少干货）
 
-http://www.kuqin.com/shuoit/20150729/347291.html
+http://www.kuqin.com/shuoit/20150729/347291.html<br  />
 性能优化：一个全栈问题
 
-http://www.reqianduan.com/2928.html
+http://www.reqianduan.com/2928.html<br  />
 什么是AMD, CommonJS, UMD?
 原文: What is AMD CommonJS and UMD 简介 最近几年，我们可以选择的Javascript组件的生态系统一直在稳步增长。虽然陡增的选择范围是极好的，但当组件混合匹配使用时就会出现很尴尬的局面。开发新手们会很快发现不是所有组件都能彼此“和平相处”。 为了。。。
 另：这篇文章只是把AMD跟CommonJS做了一个对比，介绍得不很深入。阮一峰写过几篇专门介绍AMD开发的，那个比较详细。想看的话可以百度《Javascript模块化编程（一）》，还有（二）和（三）
 
-http://www.reqianduan.com/2886.html
+http://www.reqianduan.com/2886.html<br  />
 如何克服JS框架的疲劳
 
-https://github.com/unruledboy/WebFrontEndStack
+https://github.com/unruledboy/WebFrontEndStack<br  />
 目前“较为全面”的web前端开发技术栈，包括浏览器、框架、类库、工具等20个层级/类别约100个知识/技术点， 第一版，错漏难免，欢迎指正。GitHub地址：O网页链接 内容太多，图太小，点击看大图，或者去GitHub下载原图 O网页链接，晚点写博客
 
-http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207081298&idx=1&sn=53e8d6e02f62e454c2d6b14be038464a&scene=0#rd
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207081298&idx=1&sn=53e8d6e02f62e454c2d6b14be038464a&scene=0#rd<br  />
 构建web前段异常监控系统
 
-http://sofi.sh/how-eleme-works/
+http://sofi.sh/how-eleme-works/<br  />
 如何在任何时候发布都不宕机，且200s 发布到所有机器？如何直接写 ES6 / CSS Next?
 
-http://web.jobbole.com/83132/
+http://web.jobbole.com/83132/<br  />
 Web性能：Facebook团队关于缓存效率的实践
 
-http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207161489&idx=1&sn=cd2a78eaff1f82902f118814a88e69ac&scene=0#rd
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=207161489&idx=1&sn=cd2a78eaff1f82902f118814a88e69ac&scene=0#rd<br  />
 web滚动性能优化实战
 
-http://blog.sina.com.cn/s/blog_690685c60101d96h.html
+http://blog.sina.com.cn/s/blog_690685c60101d96h.html<br  />
 前端工作了一段时间经验总结，献给做前端的同学
 
-https://github.com/unruledboy/WebFrontEndStack
+https://github.com/unruledboy/WebFrontEndStack<br  />
 web前端开发技术栈，重写2.0
 
-http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/
+http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/<br  />
 勾三股四翻译的：如何成为一名卓越的前端工程师
 看过之后非常有感触，很多观点都是自己长期非常坚持和认同的，所以翻译出来分享给更多的前端同学！
 
-http://www.oschina.net/translate/42-mobile-landing-page-optimization-tips
+http://www.oschina.net/translate/42-mobile-landing-page-optimization-tips<br  />
 42 个移动端启动页面优化 Tips
 
-http://caibaojian.com/frontend-base.html
+http://caibaojian.com/frontend-base.html<br  />
 前端制作入门知识
 里面讲了许多的知识，非常适合刚进入前端的童鞋，就算一些有点基础的也会从中受益，通过本文，你将了解到制作中的那些元素解释、命名、布局、CSS重置、选择框架和设定等一系列前端入门知识。学习什么我觉得做好笔记很关键，平时遇到问题多多记录下来。
 
-http://www.cnblogs.com/coco1s/p/4725477.html
+http://www.cnblogs.com/coco1s/p/4725477.html<br  />
 清除页面广告？身为前端，自己做一款简易的Chrome扩展吧
 当然有现成的插件可以清除页面广告，但是既然身为一名程序猿，尤其是FEDer，为什么不尝试一下自己写一个清除广告的插件呢。其实，编写一个浏览器插件十分简单，尤其是chrome插件，可以完全使用前端技术（HTML/CSS/JS）完成一个自己编写的插件。让我们一步一步，学习一下如何编写一个简单的清除广告的插件，跟烦人的页面广告say goodbye
 
