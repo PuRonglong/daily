@@ -453,19 +453,19 @@ http://www.jianshu.com/p/83e91317dcb9
 http://caibaojian.com/2015-f2e-skill.html
 2015 前端[JS]工程师必知必会
 
-http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/
+http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/<br  />
 我们真的缺前端工程师吗？
 
-http://www.an7.me/1561
+http://www.an7.me/1561<br  />
 前端代码优化带来搜索引擎高效地识别移动页面
 
-https://github.com/jayli/jayli.github.com/issues/18
+https://github.com/jayli/jayli.github.com/issues/18<br  />
 拔赤：前端技术的开放和封闭
 
-https://developers.google.com/web/fundamentals/performance/
+https://developers.google.com/web/fundamentals/performance/<br  />
 Google 的前端性能优化教程和资料，超级棒
 
-http://www.infoq.com/cn/articles/how-to-create-great-js-module
+http://www.infoq.com/cn/articles/how-to-create-great-js-module<br  />
 优秀的JavaScript模块是怎样炼成的
 
 http://www.zensh.org/slides/<br  />
