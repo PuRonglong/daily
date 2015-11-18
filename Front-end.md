@@ -468,35 +468,35 @@ Google 的前端性能优化教程和资料，超级棒
 http://www.infoq.com/cn/articles/how-to-create-great-js-module
 优秀的JavaScript模块是怎样炼成的
 
-http://www.zensh.org/slides/
+http://www.zensh.org/slides/<br  />
 ZENSH严清，广播一下我的 #深JS# slides，只给了 30 分钟没能细讲
 
-http://www.admin10000.com/document/6522.html
+http://www.admin10000.com/document/6522.html<br  />
 2015年需要了解的前端框架和语言
 
-http://www.codeceo.com/article/web-10-years.html
+http://www.codeceo.com/article/web-10-years.html<br  />
 详述JavaScript的原生对象及其方法
 
-http://web.jobbole.com/82625/
+http://web.jobbole.com/82625/<br  />
 《JavaScript内存泄露》最近简单了解了下JavaScript的闭包和垃圾回收机制（GC），这中间也不得不接触内存泄露这个概念。然后不小心找到了这篇文章，看下来后理解了不少东西，于是译之与大家分享
 
-http://codecloud.net/2015-web-app-4932.html
+http://codecloud.net/2015-web-app-4932.html<br  />
 在2015年 开发一个 Web App 必须了解的那些事
 
-http://www.cnblogs.com/sussski/p/4634595.html
+http://www.cnblogs.com/sussski/p/4634595.html<br  />
 十年WEB技术发展历程
 一个小分享，知识有限，抛砖引玉
 
-http://fex.baidu.com/blog/2015/07/fex-weekly/
+http://fex.baidu.com/blog/2015/07/fex-weekly/<br  />
 FEX 技术周刊-2015/07/13：内容很多
 
-http://www.kuqin.com/shuoit/20150512/345996.html
+http://www.kuqin.com/shuoit/20150512/345996.html<br  />
 聊聊移动端跨平台开发的各种技术》最近出现的 React Native 再次让跨平台移动端开发这个话题火起来了，曾经大家以为在手机上可以像桌面那样通过 Web 技术来实现跨平台开发，却大多因为性能或功能问题而放弃，不得不针对不同平台开发多个版本
 
-http://tech.meituan.com/frontend-component-practice.html
+http://tech.meituan.com/frontend-component-practice.html<br  />
 前端组件化开发实践
 
-http://weibo.com/p/1001603864951990185052
+http://weibo.com/p/1001603864951990185052<br  />
 七牛前端测试实践】长久以来，前端测试一直并未引起大家的重视。而经过一段时间的尝试和探索，七牛技术团队发现前端测试能给项目的开发带来极大利好
 
 http://www.ido321.com/1604.html<br  />
