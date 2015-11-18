@@ -441,16 +441,16 @@ Web前端知识技能大汇总
 http://web.jobbole.com/82586/
 为什么我弃用Angular，转向React
 
-http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
+http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults<br  />
 深入浅出ES6（五）：不定参数和默认参数
 
-https://github.com/lifesinger/lifesinger.github.com/issues/141#issuecomment-16118746
+https://github.com/lifesinger/lifesinger.github.com/issues/141#issuecomment-16118746<br  />
 阿里前端的困局与突围 #141
 
-http://www.jianshu.com/p/83e91317dcb9
+http://www.jianshu.com/p/83e91317dcb9<br  />
 为什么整个互联网行业都缺前端工程师
 
-http://caibaojian.com/2015-f2e-skill.html
+http://caibaojian.com/2015-f2e-skill.html<br  />
 2015 前端[JS]工程师必知必会
 
 http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/<br  />
