@@ -411,34 +411,34 @@ web前端动态加载大量元素的方式最好是怎么实现
 http://blogread.cn/it/article/5113?f=wb
 技术债务，是指匆忙的实现一个功能，却对现有的程序库造成了破坏(在实现的过程中污染了代码库的设计)，这对于一些项目经理/客户来说就像是天书奇谈。也许他们是明白的，只是不愿意承认罢了，我估计是这样的。不管怎样，我想起来一个小故事，当下次遇到这种情况，需要向他们解释增加某些新功能的代价时，也可用讲这个故事给他们听。
 
-http://www.codeceo.com/article/3-sort-quick-sort-improve.html
+http://www.codeceo.com/article/3-sort-quick-sort-improve.html<br  />
 三种快速排序算法以及快速排序的优化
 
-http://www.codeceo.com/article/javascript-do-cookie.html
+http://www.codeceo.com/article/javascript-do-cookie.html<br  />
 Cookie介绍及JavaScript操作Cookie方法详解
 
-http://www.w3ctech.com/topic/1417?utm_source=tuicool
+http://www.w3ctech.com/topic/1417?utm_source=tuicool<br  />
 Web与原生：我们得承认失败
 
-http://div.io/topic/908?page=1#3669
+http://div.io/topic/908?page=1#3669<br  />
 2015前端组件化框架之路
 
-https://github.com/snfed/attendance-records/issues
+https://github.com/snfed/attendance-records/issues<br  />
 苏宁前端
 
-http://fex.baidu.com/blog/2015/07/front-end-test/
+http://fex.baidu.com/blog/2015/07/front-end-test/<br  />
 前端自动化测试探索，写得很详细，推荐给大家参考
 
-https://www.reindex.io/blog/you-might-not-need-underscore/
+https://www.reindex.io/blog/you-might-not-need-underscore/<br  />
 You Might Not Need Underscore
 
-http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
+http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/<br  />
 [翻译] We have a problem with promises
 
-http://www.codeceo.com/article/frontend-knowledge-structure.html
+http://www.codeceo.com/article/frontend-knowledge-structure.html<br  />
 Web前端知识技能大汇总
 
-http://web.jobbole.com/82586/
+http://web.jobbole.com/82586/<br  />
 为什么我弃用Angular，转向React
 
 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults<br  />
