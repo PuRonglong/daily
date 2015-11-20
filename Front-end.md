@@ -250,85 +250,85 @@ Reapp – 下一代的 Hybrid App 开发框架
 http://www.yyyweb.com/3106.html
 FreeIconMaker – 在线创建免费的图标
 
-https://packagecontrol.io/packages/QuoteHTML
+https://packagecontrol.io/packages/QuoteHTML<br  />
 神器啊，sublime插件【Quote​HTML】可找到你了，看图吧，都是泪...
 
-http://www.zhihu.com/question/30605543
+http://www.zhihu.com/question/30605543<br  />
 Facebook的前端架构是怎么样的？
 
-http://fex.baidu.com/blog/2015/05/cross-mobile/
+http://fex.baidu.com/blog/2015/05/cross-mobile/<br  />
 聊聊移动端跨平台开发的各种技术
 
-http://www.admin10000.com/document/6399.html
+http://www.admin10000.com/document/6399.html<br  />
 浏览网页背后的心理学
 
-http://photo.weibo.com/2036070420/wbphotos/large/mid/3852853724773026/pid/795bf814gw1et138bnvs9g21gf1lxtc8
+http://photo.weibo.com/2036070420/wbphotos/large/mid/3852853724773026/pid/795bf814gw1et138bnvs9g21gf1lxtc8<br  />
 Web Developer路线图 via @Phodal
 
-http://blogread.cn/it/article/4655?f=wb
+http://blogread.cn/it/article/4655?f=wb<br  />
 在StackExchange上有人问了这样一个问题：What should every programmer know about web development?(关于Web开发，什么是所有程序员需要知道的？)里面给出的答案非常不错，所以，我翻译转载过来。
 
-http://forum.memect.com/thread/web-2015-06-12/
-第171期Web技术日报(2015-06-12)
-浅谈JavaScript处理树形结构的几个场景与方案
-七个你可能不了解的CSS单位
-Github Web编程学习资源
-Facebook如何向十亿人推荐东西
+http://forum.memect.com/thread/web-2015-06-12/<br  />
+第171期Web技术日报(2015-06-12)<br  />
+浅谈JavaScript处理树形结构的几个场景与方案<br  />
+七个你可能不了解的CSS单位<br  />
+Github Web编程学习资源<br  />
+Facebook如何向十亿人推荐东西<br  />
 W3C发布Web电话API 
 
-http://forum.memect.com/hashtag/2015-06-09+web/
-浅谈五大Python Web框架
-CSS 布局模块
-收集/监控服务器各种指标的工具statsd
-React开发神器Webpack
-Node.js + Web Socket 打造即时聊天程序
-浅析手机Web App的交互设计
+http://forum.memect.com/hashtag/2015-06-09+web/<br  />
+浅谈五大Python Web框架<br  />
+CSS 布局模块<br  />
+收集/监控服务器各种指标的工具statsd<br  />
+React开发神器Webpack<br  />
+Node.js + Web Socket 打造即时聊天程序<br  />
+浅析手机Web App的交互设计<br  />
 第168期Web技术日报
 
-http://www.zhihu.com/question/28373692?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar
+http://www.zhihu.com/question/28373692?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar<br  />
 前端 Leader 是如何带领团队和建设团队文化的？
 
-http://www.uisdc.com/2015-ps-collapse-solution
+http://www.uisdc.com/2015-ps-collapse-solution<br  />
 涨姿势了，关于PS崩溃又没存图的救急方法
 
-http://segmentfault.com/a/1190000002905071?utm_source=Weibo
+http://segmentfault.com/a/1190000002905071?utm_source=Weibo<br  />
 题叶：最近关于 Web 和 VR 开发的一些随想
 
-http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=206029700&idx=1&sn=f265592ea5ac32a6315448701ca17b8d#rd
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=206029700&idx=1&sn=f265592ea5ac32a6315448701ca17b8d#rd<br  />
 【第266期】经典的Web应用网络模型
 
-http://web.jobbole.com/82469/
+http://web.jobbole.com/82469/<br  />
 Web性能优化系列：10个JavaScript性能提升的技巧
 
-http://www.cocoachina.com/industry/20140716/9152.html
+http://www.cocoachina.com/industry/20140716/9152.html<br  />
 用Model-View-ViewModel构建iOS App。MVC是构建iOS app的标准模式。本文中，我们将重温一下MVC是什么，详述它的缺点，并且告诉你一个新的方式来架构你的app：Model-View-ViewModel。
 
-http://web.jobbole.com/82190/
+http://web.jobbole.com/82190/<br  />
 通俗易懂的来讲讲DOM
 
-http://wanqu.co/2015-06-16-7-future-web-design-trends.html
-Web 设计的趋势
+http://wanqu.co/2015-06-16-7-future-web-design-trends.html<br  />
+Web 设计的趋势<br  />
 Web 与 Mobile App 的设计互相借鉴，现在网站设计越来越有 App 的感觉了。文中提到一些博客离开拥挤嘈杂的社交网络，用email做为主要推送渠道，而不是被newsfeed排序算法抛出用户的视线之外。
 
-http://blog.jobbole.com/41251/
+http://blog.jobbole.com/41251/<br  />
 Web开发牛人访谈：你们都在用什么？
 
-http://blog.jobbole.com/3845/
+http://blog.jobbole.com/3845/<br  />
 您适合从事web前端开发吗？
 
-http://forum.memect.com/thread/web-2015-06-16/
-Web技术日报
-Web设计的趋势
-网页性能之HTML CSS JavaScript
-Web性能API——帮你分析前端性能
-CSS动画 vs JS动画
-详解JavaScript立即执行函数表达式 
+http://forum.memect.com/thread/web-2015-06-16/<br  />
+Web技术日报<br  />
+Web设计的趋势<br  />
+网页性能之HTML CSS JavaScript<br  />
+Web性能API——帮你分析前端性能<br  />
+CSS动画 vs JS动画<br  />
+详解JavaScript立即执行函数表达式 <br  />
 
 http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=207609334&amp;idx=1&amp;sn=c2b03d45ea66b9f4b20591b0b71ba1ba#rd&comefrom=http://blogread.cn/news/<br  />
 Web性能API——帮你分析前端性能
 
 http://xueduany.github.io/localstore/<br  />
-纯js实现突破localstorage的存储上限 并且可以保存远程服务器的网页，静态资源比如css,js,img全部离线下载到本地，并且还原
+纯js实现突破localstorage的存储上限 并且可以保存远程服务器的网页，静态资源比如css,js,img全部离线下载到本地，并且还原<br  />
 有兴趣的 可以和我聊需求，代码开源
 
 http://blogread.cn/it/article/5024?f=wb<br  />
