@@ -136,79 +136,79 @@ http://www.html-js.com/article/2947
 http://blogread.cn/it/article/4691?f=wb
 Buddy memory allocation (伙伴内存分配器)
 
-http://segmentfault.com/a/1190000002779266
+http://segmentfault.com/a/1190000002779266<br  />
 grunt和前端模块管理工具的简单使用
 
-http://blog.jobbole.com/24955/
+http://blog.jobbole.com/24955/<br  />
 黄锦诚：前端工程师新手必读
 
-http://www.kuqin.com/shuoit/20150515/346075.html
+http://www.kuqin.com/shuoit/20150515/346075.html<br  />
 什么是二进制数 为什么用二进制数表示计算机信息？
 
-http://jinlong.github.io/2015/05/24/css-retina-hairlines/
+http://jinlong.github.io/2015/05/24/css-retina-hairlines/<br  />
 Retina屏的移动设备如何实现真正1px的线？
 
-http://blog.jobbole.com/87058/
+http://blog.jobbole.com/87058/<br  />
 如何安全地存储密码？
 
-http://m.oschina.net/blog/419276
+http://m.oschina.net/blog/419276<br  />
 十年磨一剑：梳理淘宝网技术架构的发展
 
-http://www.imooc.com/wenda/detail/252485
+http://www.imooc.com/wenda/detail/252485<br  />
 分享十佳Web开发资源
 
-http://w3help.org/zh-cn/causes/index.html
-细分析页面代码在各浏览器中产生的兼容性问题的根本原因。
-在这些原因中，有的是开发者对某种技术的使用不当，有的是使用了某些浏览器的特性，有的是触碰了标准尚未明确定义的盲区。
+http://w3help.org/zh-cn/causes/index.html<br  />
+细分析页面代码在各浏览器中产生的兼容性问题的根本原因。<br  />
+在这些原因中，有的是开发者对某种技术的使用不当，有的是使用了某些浏览器的特性，有的是触碰了标准尚未明确定义的盲区。<br  />
 分析原因之后，还会针对该类问题给出建议和解决方案。
 
 【用户十秒离开你网站的15大原因！】1.自动播放的声音；2.弹窗；3.插入式广告；4.分页；5.缓慢的载入；6.对于广告的优化大于对内容的优化；7.糟糕的导航栏；8.结构混乱；9.关键信息的擅离职守；10.过早要求注册；11.错别字；12.年久失修；13.主题模糊；14.浏览器不兼容；15.只有视频的主页【转】
 
-http://devdocs.io/javascript/
+http://devdocs.io/javascript/<br  />
 真阿当说：不错的网站，收藏了
 
-http://segmentfault.com/a/1190000002804472
+http://segmentfault.com/a/1190000002804472<br  />
 github上值得关注的前端项目
 
-http://segmentfault.com/a/1190000002776638?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+http://segmentfault.com/a/1190000002776638?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare<br  />
 朴灵：打破限制，从前端到全栈
 
-http://www.wenjuan.com/s/VjaEva/
+http://www.wenjuan.com/s/VjaEva/<br  />
 测试：你的前端开发功力有几成
 
 从浏览器输入地址栏到页面展现，从打开app到最终看到界面，阐述过程
 
-http://webniuzai.lofter.com/post/33b8cf_1495657
+http://webniuzai.lofter.com/post/33b8cf_1495657<br  />
 PhotoshopCC新功能 生成图像资源（切图）
 
-http://open.leancloud.cn/
-文案风格指南
-技术面试指南
-薪酬体系
-期权激励计划
-文化和价值
-技术支持标准
+http://open.leancloud.cn/<br  />
+文案风格指南<br  />
+技术面试指南<br  />
+薪酬体系<br  />
+期权激励计划<br  />
+文化和价值<br  />
+技术支持标准<br  />
 工作的评价和反馈机制
 
-http://blog.jobbole.com/1410/
+http://blog.jobbole.com/1410/<br  />
 web前端开发前景何去何从
 
-https://github.com/luxiaojijan/fe-knowledge-points
+https://github.com/luxiaojijan/fe-knowledge-points<br  />
 百度IEF前端技术学院第一期知识点汇总
 
-http://www.admin10000.com/document/6372.html
+http://www.admin10000.com/document/6372.html<br  />
 前端，我为什么不要你
 
-http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
+http://www.infoq.com/cn/articles/es6-in-depth-an-introduction<br  />
 深入浅出ES6
 
-http://www.kuqin.com/shuoit/20150601/346346.html
+http://www.kuqin.com/shuoit/20150601/346346.html<br  />
 Web开发者不可不知的15条编码原则
 
-http://caibaojian.com/links?fid=2#0-tsina-1-34652-397232819ff9a47a7b7e80a40613cfe1
+http://caibaojian.com/links?fid=2#0-tsina-1-34652-397232819ff9a47a7b7e80a40613cfe1<br  />
 前端网址导航
 
-http://div.io/topic/1045
+http://div.io/topic/1045<br  />
 一周技术文章推荐
 
 http://island205.com/2015/06/06/my-rss-list/<br  />
