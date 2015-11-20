@@ -211,31 +211,31 @@ http://caibaojian.com/links?fid=2#0-tsina-1-34652-397232819ff9a47a7b7e80a40613cf
 http://div.io/topic/1045
 一周技术文章推荐
 
-http://island205.com/2015/06/06/my-rss-list/
+http://island205.com/2015/06/06/my-rss-list/<br  />
 寸志的前端RSS订阅
 
-http://kittenyang.com/layout-algorithm/
+http://kittenyang.com/layout-algorithm/<br  />
 如何实现一个不规则排列的图片布局算法
 
-http://blog.jobbole.com/53812/
+http://blog.jobbole.com/53812/<br  />
 Nicholas C. Zakas：我得到的最佳职业生涯建议
 
-http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/
+http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/<br  />
 How to Write Great Web Development Articles and Tutorials
 
-http://segmentfault.com/a/1190000002884052
+http://segmentfault.com/a/1190000002884052<br  />
 [译]让web app更快的HTML5最佳实践
 
-http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205841097&idx=1&sn=a02ca349084ada8f28bea72573d829bb#rd
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205841097&idx=1&sn=a02ca349084ada8f28bea72573d829bb#rd<br  />
 前端代码异常监控
 
-http://www.infoq.com/cn/presentations/best-practice-of-baoz-technical-team-full-stack
+http://www.infoq.com/cn/presentations/best-practice-of-baoz-technical-team-full-stack<br  />
 孢子技术团队全栈最佳实践
 
-http://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/
+http://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/<br  />
 【成为全栈工程师的难度越来越大了】我不同意，倒是觉得个人或极小的团队独立做一个完整产品的可能性越来越大，各种SaaS/PaaS、各种可重用的组件等。 | 原链
 
-http://mp.weixin.qq.com/s?__biz=MzAxNzM4OTE4Mg==&mid=208550775&idx=1&sn=444f94bdfb0b252c265e6afaab04841c#rd
+http://mp.weixin.qq.com/s?__biz=MzAxNzM4OTE4Mg==&mid=208550775&idx=1&sn=444f94bdfb0b252c265e6afaab04841c#rd<br  />
 如何带好前端团队（五）
 
 http://teeohhem.com/es6-the-future-is-now/<br  />
