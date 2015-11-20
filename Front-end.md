@@ -324,91 +324,92 @@ Web性能API——帮你分析前端性能
 CSS动画 vs JS动画
 详解JavaScript立即执行函数表达式 
 
-http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=207609334&amp;idx=1&amp;sn=c2b03d45ea66b9f4b20591b0b71ba1ba#rd&comefrom=http://blogread.cn/news/
+http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=207609334&amp;idx=1&amp;sn=c2b03d45ea66b9f4b20591b0b71ba1ba#rd&comefrom=http://blogread.cn/news/<br  />
 Web性能API——帮你分析前端性能
 
-http://xueduany.github.io/localstore/
+http://xueduany.github.io/localstore/<br  />
 纯js实现突破localstorage的存储上限 并且可以保存远程服务器的网页，静态资源比如css,js,img全部离线下载到本地，并且还原
 有兴趣的 可以和我聊需求，代码开源
 
-http://blogread.cn/it/article/5024?f=wb
+http://blogread.cn/it/article/5024?f=wb<br  />
 浅谈Ddos攻击攻击与防御
 
-http://nginx.com/blog/thread-pools-boost-performance-9x/
+http://nginx.com/blog/thread-pools-boost-performance-9x/<br  />
 详细讲解nginx
 
-http://dailyjs.com/2015/06/19/not-really-single-page-apps/
+http://dailyjs.com/2015/06/19/not-really-single-page-apps/<br  />
 Not Really Single Page Apps
 
-http://www.92fenxiang.com/34.html
+http://www.92fenxiang.com/34.html<br  />
 How to Become a Great JavaScript Developer
 
-http://wanqu.co/2015-05-22-fixing-engineerings-loyalty-and-longevity-problem.html
+http://wanqu.co/2015-05-22-fixing-engineerings-loyalty-and-longevity-problem.html<br  />
 工程团队如何留住人才
 
-http://www.w3ctech.com/topic/1397
+http://www.w3ctech.com/topic/1397<br  />
 动画的现状(2014)
 
-http://segmentfault.com/a/1190000002587334?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+http://segmentfault.com/a/1190000002587334?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare<br  />
 GitHub 上一份很受欢迎的前端代码优化指南
 
-http://wanqu.co/2015-05-24-tooling-is-not-the-problem-of-the-web.html
+http://wanqu.co/2015-05-24-tooling-is-not-the-problem-of-the-web.html<br  />
 百花齐放的工具是Web的未来】希望浏览器可以把常用的库（比如jQuery、backbonejs、reactjs）缓存在客户端，如此的话，访问大部分网站就不用重复下载这些库了。
 
-http://segmentfault.com/a/1190000002920859
+http://segmentfault.com/a/1190000002920859<br  />
 [译]JavaScript ES6解构赋值指南
 
-http://www.html5cn.org/article-7400-1.html
+http://www.html5cn.org/article-7400-1.html<br  />
 Web程序员最牛最实用的资源
 
-http://segmentfault.com/a/1190000002920768
+http://segmentfault.com/a/1190000002920768<br  />
 前端：将网站打造成单页面应用SPA（一）
 
-http://www.w3cplus.com/performance/performance-tools.html
+http://www.w3cplus.com/performance/performance-tools.html<br  />
 前端性能工具简介
 
-http://web.jobbole.com/82530/
+http://web.jobbole.com/82530/<br  />
 Web性能优化系列：借助响应式图片来改进网站图片显示
 
-http://www.cnblogs.com/dojo-lzz/p/4591446.html
+http://www.cnblogs.com/dojo-lzz/p/4591446.html<br  />
 Web性能优化：What? Why? How?
 
-http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html
+http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html<br  />
 Sublime进阶使用
 
-http://blog.jobbole.com/87578/
+http://blog.jobbole.com/87578/<br  />
 编程字体小汇总，总会有你喜欢的那一款！
 
-http://www.ido321.com/1596.html
+http://www.ido321.com/1596.html<br  />
 ECMAScript 6新特性介绍
 
-http://web.jobbole.com/82548/
+http://web.jobbole.com/82548/<br  />
 性能工具
 
-http://blog.jobbole.com/87733/
+http://blog.jobbole.com/87733/<br  />
 浅谈大型web系统架构
-http://www.html-js.com/article/3000
+
+http://www.html-js.com/article/3000<br  />
 有关网页渲染，每个前端开发者都该知道的那点事
 
-http://yisibl.github.io/share/designer-debug-skills.html#/1
+http://yisibl.github.io/share/designer-debug-skills.html#/1<br  />
 设计师需要了解的 调试技巧
 
-http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x
+http://www.infoq.com/cn/articles/thread-pools-boost-performance-9x<br  />
 Ngnix原来采用异步、事件驱动的方法来处理连接性能尚可，然而其阻塞操作还是非常影响性能。NGINX1.7.11通过引入并实现了线程池机制，从而可以避免使用阻塞，将它推向了新的性能水平，带来的性能提升是之前的9倍
 
-http://www.imooc.com/learn/99?from=itblog
+http://www.imooc.com/learn/99?from=itblog<br  />
 阿当大话西游之WEB组件
 
-http://aprilorange.github.io/cram/#!javascript/1
+http://aprilorange.github.io/cram/#!javascript/1<br  />
 前端基础知识补完计划
 
-http://melon.github.io/blog/2014/12/16/translation-javascript-application-architecture-on-the-road-to-2015/
+http://melon.github.io/blog/2014/12/16/translation-javascript-application-architecture-on-the-road-to-2015/<br  />
 【译】2015年JavaScript应用架构趋势
 
-http://segmentfault.com/q/1010000002933584
+http://segmentfault.com/q/1010000002933584<br  />
 web前端动态加载大量元素的方式最好是怎么实现
 
-http://blogread.cn/it/article/5113?f=wb
+http://blogread.cn/it/article/5113?f=wb<br  />
 技术债务，是指匆忙的实现一个功能，却对现有的程序库造成了破坏(在实现的过程中污染了代码库的设计)，这对于一些项目经理/客户来说就像是天书奇谈。也许他们是明白的，只是不愿意承认罢了，我估计是这样的。不管怎样，我想起来一个小故事，当下次遇到这种情况，需要向他们解释增加某些新功能的代价时，也可用讲这个故事给他们听。
 
 http://www.codeceo.com/article/3-sort-quick-sort-improve.html<br  />
