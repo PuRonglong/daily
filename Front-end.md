@@ -238,16 +238,16 @@ http://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/
 http://mp.weixin.qq.com/s?__biz=MzAxNzM4OTE4Mg==&mid=208550775&idx=1&sn=444f94bdfb0b252c265e6afaab04841c#rd
 如何带好前端团队（五）
 
-http://teeohhem.com/es6-the-future-is-now/
+http://teeohhem.com/es6-the-future-is-now/<br  />
 ES6: The Future is Now
 
-http://www.infoq.com/cn/news/2015/05/JavaScript-jQuery
+http://www.infoq.com/cn/news/2015/05/JavaScript-jQuery<br  />
 如何评估一个JavaScript语言库
 
-http://www.yyyweb.com/3693.html
+http://www.yyyweb.com/3693.html<br  />
 Reapp – 下一代的 Hybrid App 开发框架
 
-http://www.yyyweb.com/3106.html
+http://www.yyyweb.com/3106.html<br  />
 FreeIconMaker – 在线创建免费的图标
 
 https://packagecontrol.io/packages/QuoteHTML<br  />
