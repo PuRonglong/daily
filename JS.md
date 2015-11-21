@@ -433,93 +433,93 @@ http://www.smohan.net/blog/5029/<br  />
 http://www.html5cn.org/article-8412-1.html
  validate.js是一款强大的纯javascript表单验证插件。该表单验证插件提供跨框架和跨语言的数据验证方式，验证条件可以写在JSON数据中，被服务器和客户端共享。它支持日期时间的验证，并提供自定义的验证接口。 ...
 
-http://ourjs.com/detail/52fb82e13bd19c4814000001
+http://ourjs.com/detail/52fb82e13bd19c4814000001<br  />
 JavaScript专业八级测试，你能做对几道？
 
-http://www.codeceo.com/article/javascript-prototype.html
+http://www.codeceo.com/article/javascript-prototype.html<br  />
 JavaScript原型与原型链分析
 
-http://segmentfault.com/a/1190000002989513?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+http://segmentfault.com/a/1190000002989513?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare<br  />
 [JavaScript 随笔] 继承的实现方式及原型概述
 
-http://www.imooc.com/article/1237
+http://www.imooc.com/article/1237<br  />
 在本文中，作者收集了一些比较常用的Javascript函数
 
-http://segmentfault.com/a/1190000003013070?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
+http://segmentfault.com/a/1190000003013070?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare<br  />
 继承的实现方式及原型概述 | JavaScript 随笔
 
-http://brendaneich.github.io/ModernWeb.tw-2015/
+http://brendaneich.github.io/ModernWeb.tw-2015/<br  />
 JS at 20演示
 
-http://web.jobbole.com/64771/
+http://web.jobbole.com/64771/<br  />
 JS基础工具清单
 
-http://www.nowcoder.com/ta/js-assessment?from=s
+http://www.nowcoder.com/ta/js-assessment?from=s<br  />
 JS能力测评经典题
 
-http://www.nowcoder.com/ta/front-end?from=s
+http://www.nowcoder.com/ta/front-end?from=s<br  />
 前端技能挑战
 
-http://segmentfault.com/a/1190000003013733
+http://segmentfault.com/a/1190000003013733<br  />
 关于this的点滴
 
-http://blog.jobbole.com/52745/
+http://blog.jobbole.com/52745/<br  />
 全栈式Javascript
 
-http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
+http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/<br  />
 图解javascript上下文与作用域
 
-http://liubin.github.io/promises-book/
+http://liubin.github.io/promises-book/<br  />
 【JavaScript Promise迷你书（中文版）】本书的目的是以ECMAScript 6 Promises规范为中心，着重向各位读者介绍JavaScript中对Promise相关技术的支持情况。本书开放了PDF以及源码下载，学习JS Promise的朋友们可以收藏咯
 
-http://www.codeceo.com/article/javascript-delete-array.html
+http://www.codeceo.com/article/javascript-delete-array.html<br  />
 JavaScript删除数组重复元素的5个高效算法
 
-http://www.codeceo.com/article/javascript-property-attribute.html
+http://www.codeceo.com/article/javascript-property-attribute.html<br  />
 JavaScript 中 Property 和 Attribute 的区别详解
 
-http://www.w3ctech.com/topic/1474
+http://www.w3ctech.com/topic/1474<br  />
 JS性能优化杀手
 
-http://www.imooc.com/article/1402
+http://www.imooc.com/article/1402<br  />
 前端javascript规范
 
-http://www.codeceo.com/article/javascript-in-mobile.html
+http://www.codeceo.com/article/javascript-in-mobile.html<br  />
 为什么 JavaScript 会在移动端中胜出？
 
-http://get.jobdeer.com/1544.get
+http://get.jobdeer.com/1544.get<br  />
 我写JavaScript代码已经很久了，都记不起是什么年代开始的了。对于JavaScript这种语言近几年所取得的成就，我感到非常的兴奋；我很幸运也是这些成就的获益者。我写了不少的文章，章节，还有一本专门讨论它的书，然而，我现在依然能发现一些关于这种语言的新知识。下面的描述的就是过去让我不由得发出“啊！”的感叹的编程技巧，这些技巧你应该现在就试试，而不是等着未来的某个时候偶然的发现它们。
 
-http://yujiangshui.com/javascript-event/
+http://yujiangshui.com/javascript-event/<br  />
 最详细的js事件解析——于江水
 
-http://web.jobbole.com/83303/
-JavaScript实现类的private、protected、public、static以及继承
+http://web.jobbole.com/83303/<br  />
+JavaScript实现类的private、protected、public、static以及继承<br  />
 JavaScript实际上是一种弱类型语言，与C++和Java等语言不同。因此，在JavaScript中，没有强调类（class）这一概念，但实际运用中，类还是很重要的，比如写一款游戏，如果我们不停地调用函数来完成创建角色，移动角色的话，那会是什么样的呢？可能会出现非常多的重复代码，因此我们需要一个类来统一这些代码。
 
-http://web.jobbole.com/83319/
+http://web.jobbole.com/83319/<br  />
 一个多月前，卤煮读了一篇翻译过来的外国人写的技术博客。此君在博客中将js中的类（构造）继承和原型继承做了一些比较，并且得出了结论：建议诸位在开发是用原型继承。文中提到了各种原型继承的优点，详细的露珠不一一说明介绍了。这篇文章的名字是为什么原型继承很重要，有兴趣的同学可以去看，此文有些深度，值得反复阅读。今天这篇文章也来谈谈js中的继承方式以及它们的优缺点。
 
-http://www.helloweba.com/view-blog-320.html
+http://www.helloweba.com/view-blog-320.html<br  />
 JS倒计时
 WEB开发中经常会用到倒计时来限制用户对表单的操作，比如希望用户在一定时间内看完相关协议信息才允许用户继续下一步操作，又比如在收取手机验证码时允许用户在一定时间过后（未收到验证码的情况下）再次获取验证码。那么今天我来给大家介绍下如何使用Javascript来实现这一简单应用
 
-http://web.jobbole.com/83360/
-js事件循环详解
+http://web.jobbole.com/83360/<br  />
+js事件循环详解<br  />
 伴随着JavaScript这种web浏览器脚本语言的普及，对它的事件驱动交互模型，以及它与Ruby、Python和Java中常见的请求-响应模型的区别有一个基本了解，对您是有益的。在这篇文章中，我将解释一些JavaScript并发模型的核心概念，包括其事件循环和消息队列，希望能够提升你对一种语言的理解，这种语言你可能已经在使用但也许并不完全理解。
 
-http://f2e.souche.com/blog/domde-attributehe-property/
+http://f2e.souche.com/blog/domde-attributehe-property/<br  />
 DOM中Property与Attribute的区别
 
-http://blogread.cn/it/article/5912?f=wb
+http://blogread.cn/it/article/5912?f=wb<br  />
 js运算符
 
-http://www.ibm.com/developerworks/cn/web/wa-jsmemory/index.html
+http://www.ibm.com/developerworks/cn/web/wa-jsmemory/index.html<br  />
 JS内存泄漏
 
-http://www.cnblogs.com/wteam-xq/p/4732351.html
-JS数组去重算法实现
-之前一段时间一直在准备面试， 因而博客太久没更新； 现在基本知识点都复习完毕， 接下来就分享下 面试的一些常见问题：
+http://www.cnblogs.com/wteam-xq/p/4732351.html<br  />
+JS数组去重算法实现<br  />
+之前一段时间一直在准备面试， 因而博客太久没更新； 现在基本知识点都复习完毕， 接下来就分享下 面试的一些常见问题：<br  />
 去正规的互联网公司笔试、面试有很大的概率会碰到 使用javascript实现数组去重 的编码问题，下面列出了5种方法，并附上demo和源码
 
 http://dmitryfrank.com/articles/js_closures
