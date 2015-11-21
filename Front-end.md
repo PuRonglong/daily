@@ -28,9 +28,6 @@ http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=204295867&idx=1&sn=b153cf58
 http://www.php100.com/html/it/qianduan/2015/0313/8776.html<br  />
 带你认识Web前端工程师
 
-http://blogread.cn/it/article/4451?f=wb<br  />
-移动产品设计之设计
-
 http://www.w3ctech.com/topic/977<br  />
 十张图明白webkit是如何工作的
 
