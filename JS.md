@@ -522,49 +522,50 @@ JS数组去重算法实现<br  />
 之前一段时间一直在准备面试， 因而博客太久没更新； 现在基本知识点都复习完毕， 接下来就分享下 面试的一些常见问题：<br  />
 去正规的互联网公司笔试、面试有很大的概率会碰到 使用javascript实现数组去重 的编码问题，下面列出了5种方法，并附上demo和源码
 
-http://dmitryfrank.com/articles/js_closures
+http://dmitryfrank.com/articles/js_closures<br  />
 JS闭包图文详解，英文
 
-http://www.codeceo.com/article/javascript-high-performance.html
-编写高性能JS
-很多JavaScript引擎，如Google的V8引擎（被Chrome和Node所用），是专门为需要快速执行的大型JavaScript应用所设计的。如果你是一个开发者，并且关心内存使用情况与页面性能，你应该了解用户浏览器中的JavaScript引擎是如何运作的。无论是V8，SpiderMonkey的（Firefox）的Carakan（Opera），Chakra（IE）或其他引擎，这样做可以帮助你更好地优化你的应用程序。这并不是说应该专门为某一浏览器或引擎做优化，千万别这么做。
-但是，你应该问自己几个问题：
-在我的代码里，是否可以使代码更高效一些
-主流的JavaScript引擎都做了哪些优化
+http://www.codeceo.com/article/javascript-high-performance.html<br  />
+编写高性能JS<br  />
+很多JavaScript引擎，如Google的V8引擎（被Chrome和Node所用），是专门为需要快速执行的大型JavaScript应用所设计的。<br  />
+如果你是一个开发者，并且关心内存使用情况与页面性能，你应该了解用户浏览器中的JavaScript引擎是如何运作的。无论是V8，SpiderMonkey的（Firefox）的Carakan（Opera），Chakra（IE）或其他引擎，这样做可以帮助你更好地优化你的应用程序。这并不是说应该专门为某一浏览器或引擎做优化，千万别这么做。<br  />
+但是，你应该问自己几个问题：<br  />
+在我的代码里，是否可以使代码更高效一些<br  />
+主流的JavaScript引擎都做了哪些优化<br  />
 什么是引擎无法优化的，垃圾回收器（GC）是否能回收我所期望的东西
 
-http://www.codeceo.com/article/javascript-client-detect.html
+http://www.codeceo.com/article/javascript-client-detect.html<br  />
 Javascript客户端检测技术
 
-http://www.codeceo.com/article/javascript-asyn-evolution.html
+http://www.codeceo.com/article/javascript-asyn-evolution.html<br  />
 细说JS异步函数发展历程
 
-http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/
+http://blog.rainy.im/2015/07/04/scope-chain-and-prototype-chain-in-js/<br  />
 图解Javascript上下文与作用域》本文尝试阐述Javascript中的上下文与作用域背后的机制，主要涉及到执行上下文（execution context）、作用域链（scope chain）、闭包（closure）、this等概念。
 
-http://web.jobbole.com/83399/
+http://web.jobbole.com/83399/<br  />
 《如何成为一个JavaScript 大牛？》在成长的过程中，我的兴趣点不断发散，而且都是看似不相关的领域。我喜欢数学正如我喜欢历史一样。我的目标是成为一个 多才多艺的人 – 博学者-，能在多个领域成为优秀人才。
 
-https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md
+https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md<br  />
 一张图了解JS
 
-http://www.cnblogs.com/wangfupeng1988/p/4001284.html
+http://www.cnblogs.com/wangfupeng1988/p/4001284.html<br  />
 深入理解JS原型和闭包系列
 
-http://www.codeceo.com/article/javascript-in-mobile.html
+http://www.codeceo.com/article/javascript-in-mobile.html<br  />
 为什么 JavaScript 会在移动端中胜出？
 
-http://web.jobbole.com/83518/
+http://web.jobbole.com/83518/<br  />
 JS常用数组算法总结
 
-http://segmentfault.com/a/1190000003733107
+http://segmentfault.com/a/1190000003733107<br  />
 js函数式编程之函数柯里化
 
-http://www.w3ctech.com/topic/1516
+http://www.w3ctech.com/topic/1516<br  />
 怎么写JS组件的CSS
 
-http://yijiebuyi.com/blog/1220beaebf7aeb1095505791919844a1.html
+http://yijiebuyi.com/blog/1220beaebf7aeb1095505791919844a1.html<br  />
 一介布衣：漫谈Javascript单线程异步回调的io特性
 
-http://caibaojian.com/cross-domain-method.html?fid=0#0-tsina-1-56391-397232819ff9a47a7b7e80a40613cfe1
+http://caibaojian.com/cross-domain-method.html?fid=0#0-tsina-1-56391-397232819ff9a47a7b7e80a40613cfe1<br  />
 JS跨域总结
