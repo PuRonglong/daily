@@ -45,3 +45,6 @@ Windows 下 MySQL 简单定时自动备份、删除过期备份
 
 http://www.codeceo.com/article/8-mysql-traps.html
 8个不得不说的mysql陷阱
+
+http://www.admin10000.com/document/484.html
+如何写出高性能sql语句
