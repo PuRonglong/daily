@@ -42,3 +42,6 @@ http://www1.taosay.net/index.php/2014/12/01/<br  />
 
 http://www.waylau.com/mysql-backup-on-windows/<br  />
 Windows 下 MySQL 简单定时自动备份、删除过期备份
+
+http://www.codeceo.com/article/8-mysql-traps.html
+8个不得不说的mysql陷阱
