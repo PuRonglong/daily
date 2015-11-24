@@ -48,3 +48,6 @@ http://www.codeceo.com/article/8-mysql-traps.html<br  />
 
 http://www.admin10000.com/document/484.html<br  />
 如何写出高性能sql语句
+
+http://www.cnblogs.com/cchust/p/4582584.html<br  />
+mysql线程池总结
