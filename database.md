@@ -60,3 +60,6 @@ http://blog.jobbole.com/94913/<br  />
 
 http://blog.jobbole.com/95110/<br  />
 你真的会玩SQL吗？表表达式，排名函数
+
+http://carlosfu.iteye.com/blog/2254154<br  />
+美团在redis上踩过的坑
