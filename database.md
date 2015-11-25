@@ -51,3 +51,6 @@ http://www.admin10000.com/document/484.html<br  />
 
 http://www.cnblogs.com/cchust/p/4582584.html<br  />
 mysql线程池总结
+
+http://www.codeceo.com/article/mysql-move-solution.html<br  />
+mysql迁移方案
