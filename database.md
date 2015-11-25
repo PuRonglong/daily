@@ -54,3 +54,6 @@ mysql线程池总结
 
 http://www.codeceo.com/article/mysql-move-solution.html<br  />
 mysql迁移方案
+
+http://blog.jobbole.com/94913/<br  />
+你真得会玩sql吗？使用函数汇总
