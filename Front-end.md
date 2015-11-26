@@ -657,3 +657,6 @@ http://www.cnblogs.com/observernotes/p/4827956.html<br  />
 
 http://icodeit.org/2015/09/show-your-map-in-browser/<br  />
 可视化你的数据——web端
+
+http://blog.jobbole.com/91749/<br  />
+现在的Web系统面对的并发连接数在近几年呈现指数增长，高并发成为了一种常态，给Web系统带来不小的挑战。以最简单粗暴的方式解决，就是增加Web系统的机器和升级硬件配置。虽然现在的硬件越来越便宜，但是一味地通过增加机器来解决并发量的增长，成本是非常高昂的。结合技术优化方案，才是更有效的解决方法。
