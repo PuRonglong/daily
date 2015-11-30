@@ -666,3 +666,6 @@ https://github.com/amfe/article/issues/1<br  />
 
 http://web.memect.com/<br  />
 web技术日报
+
+http://www.cnblogs.com/observernotes/p/4806218.html<br  />
+前端图片选择问题
