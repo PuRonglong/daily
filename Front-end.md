@@ -669,3 +669,6 @@ web技术日报
 
 http://www.cnblogs.com/observernotes/p/4806218.html<br  />
 前端图片选择问题
+
+http://dolphin.duapp.com/
+webUI自动化测试平台
