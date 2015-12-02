@@ -670,10 +670,10 @@ web技术日报
 http://www.cnblogs.com/observernotes/p/4806218.html<br  />
 前端图片选择问题
 
-http://dolphin.duapp.com/
+http://dolphin.duapp.com/<br  />
 webUI自动化测试平台
 
-http://blogread.cn/it/article/6232?f=wb#original
+http://blogread.cn/it/article/6232?f=wb#original<br  />
 如果你是刚进入web前端研发领域，想试试这潭水有多深，看这篇文章吧；
 如果你是做了两三年web产品前端研发，迷茫找不着提高之路，看这篇文章吧；
 如果你是四五年的前端开发高手，没有难题能难得住你的寂寞高手，来看这篇文章吧；
