@@ -117,3 +117,6 @@ http://www.w3cplus.com/preprocessor/revisiting-css-preprocessors.html<br  />
 
 http://zh.learnlayout.com/<br  />
 本站教授的是现在广泛使用于网站布局领域的CSS基础。
+
+http://blog.jobbole.com/49173/<br  />
+理解伪类:before和:after
