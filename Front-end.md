@@ -677,3 +677,6 @@ http://blogread.cn/it/article/6232?f=wb#original<br  />
 如果你是刚进入web前端研发领域，想试试这潭水有多深，看这篇文章吧；<br  />
 如果你是做了两三年web产品前端研发，迷茫找不着提高之路，看这篇文章吧；<br  />
 如果你是四五年的前端开发高手，没有难题能难得住你的寂寞高手，来看这篇文章吧；
+
+http://ued.taobao.org/blog/tag/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB/<br  />
+淘宝前后端分离
