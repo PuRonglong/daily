@@ -120,3 +120,6 @@ http://zh.learnlayout.com/<br  />
 
 http://blog.jobbole.com/49173/<br  />
 理解伪类:before和:after
+
+http://www.codeceo.com/article/css-asyn-load.html<br  />
+CSS异步加载技术，不影响页面渲染
