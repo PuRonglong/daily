@@ -123,3 +123,6 @@ http://blog.jobbole.com/49173/<br  />
 
 http://www.codeceo.com/article/css-asyn-load.html<br  />
 CSS异步加载技术，不影响页面渲染
+
+http://web.jobbole.com/83006/<br  />
+CSS代码静态质量检查
