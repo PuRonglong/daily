@@ -129,3 +129,7 @@ CSS代码静态质量检查
 
 http://segmentfault.com/a/1190000003043991<br  />
 CSS行内布局实践小结
+
+http://lucifier129.github.io/lab/center.html
+CSS水平垂直居中的一种通用策略<br  />
+你可能在别的地方听过「水平垂直居中的 N 种办法」，但在这里，只会认真介绍一种。基于它的特性，这种定位策略可以叫做「死活要居中」。
