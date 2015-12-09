@@ -130,10 +130,10 @@ CSS代码静态质量检查
 http://segmentfault.com/a/1190000003043991<br  />
 CSS行内布局实践小结
 
-http://lucifier129.github.io/lab/center.html
+http://lucifier129.github.io/lab/center.html<br  />
 CSS水平垂直居中的一种通用策略<br  />
 你可能在别的地方听过「水平垂直居中的 N 种办法」，但在这里，只会认真介绍一种。基于它的特性，这种定位策略可以叫做「死活要居中」。
 
-http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/
+http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/<br  />
 解读CSS布局之水平垂直居中<br  />
 很多人看了我这篇讲解居中的文章后,感触就是技巧真多,其实我想说这不是重点,重点是对居中的方法按照各布局模块进行了分类,能让你对布局有个系统的认识
