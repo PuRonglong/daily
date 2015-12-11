@@ -75,3 +75,7 @@ https://www.v2ex.com/t/218523#reply0
 
 http://react-china.org/t/react/2418
 react入门视频
+
+http://ljinkai.github.io/2015/09/21/facebook-react-native-android/
+Facebook:我们是如何构建第一个跨平台的React Native APP
+今年早些时候，我们介绍过IOS版的React Native. React Native带来的是用web方式的React - 自声明式的UI组件和快速的开发迭代来完成手机平台的功能，然后为了保持速度、保真性、并达到原生的体验。今天我们很高兴发布React Native的Anroid版本.
