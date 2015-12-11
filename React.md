@@ -72,3 +72,6 @@ http://blog.tangyouhua.com/2015-08-31<br  />
 
 https://www.v2ex.com/t/218523#reply0
 [思客教学] React 全端训练营 - Web 开发的未来
+
+http://react-china.org/t/react/2418
+react入门视频
