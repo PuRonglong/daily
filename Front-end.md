@@ -686,3 +686,6 @@ http://info.9iphp.com/best-bootstrap-alternatives-for-developers/<br  />
 
 http://f2er.club/<br  />
 醉牛前端
+
+http://weibo.com/p/1001603895087527517307<br  />
+纯HTML5app和原生app的差距在哪里？
