@@ -25,3 +25,6 @@ HTML5 Canvas八大核心技术及其API用法,Canvas 元素是 HTML5 的一部�
 
 http://www.admin10000.com/document/6534.html<br  />
 HTML 5：足以改变我们未来生活的十项提示
+
+http://www.codeceo.com/article/html5-canvas-image-upload.html<br  />
+HTML5 Canvas处理头像上传
