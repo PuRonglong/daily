@@ -22,7 +22,6 @@ http://www.imooc.com/article/1176<br  />
 http://www.nowcoder.com/discuss/1760?type=&order=0&pos=13&page=0?from=wb<br  />
 HTML5 Canvas八大核心技术及其API用法,Canvas 元素是 HTML5 的一部分，允许脚本语言动态渲染 位图像。 Canvas 由一个可绘制区域 HTML 代码中的属性定义高度和宽度。 JavaScript 代码可访问该区域，通过一套完整的绘图功能类似于其他通用二维的 API ，从而生成动态的图形
 
-
 http://www.admin10000.com/document/6534.html<br  />
 HTML 5：足以改变我们未来生活的十项提示
 
