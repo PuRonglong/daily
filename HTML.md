@@ -28,3 +28,6 @@ HTML 5：足以改变我们未来生活的十项提示
 
 http://www.codeceo.com/article/html5-canvas-image-upload.html<br  />
 HTML5 Canvas处理头像上传
+
+http://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/?utm_source=jsgroup_weibo<br  />
+英文：推荐一个篇 HTML5 游戏开发基础的教程，文章讲了基本的设计思路和基本的效果实现。
