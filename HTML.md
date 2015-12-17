@@ -29,8 +29,4 @@ http://www.codeceo.com/article/html5-canvas-image-upload.html<br  />
 HTML5 Canvas处理头像上传
 
 http://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/?utm_source=jsgroup_weibo<br  />
-<<<<<<< HEAD
 英文：推荐一个篇 HTML5 游戏开发基础的教程，文章讲了基本的设计思路和基本的效果实现。
-=======
-英文：推荐一个篇 HTML5 游戏开发基础的教程，文章讲了基本的设计思路和基本的效果实现。
->>>>>>> f98ab20981de4c454e7dd0129d823b290ee141d9
