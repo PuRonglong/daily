@@ -692,3 +692,6 @@ http://weibo.com/p/1001603895087527517307<br  />
 
 http://www.maxzhang.com/2013/09/%E7%A7%BB%E5%8A%A8Web%E5%8D%95%E9%A1%B5%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E9%A1%B5%E9%9D%A2%E7%BB%93%E6%9E%84%E5%8C%96/<br  />
 移动web单页应用开发实践
+
+http://web.jobbole.com/83473/<br  />
+前端冷知识
