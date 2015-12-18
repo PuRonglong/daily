@@ -695,3 +695,6 @@ http://www.maxzhang.com/2013/09/%E7%A7%BB%E5%8A%A8Web%E5%8D%95%E9%A1%B5%E5%BA%94
 
 http://web.jobbole.com/83473/<br  />
 前端冷知识
+
+http://fex.baidu.com/blog/2014/05/what-happen/?qq-pf-to=pcqq.c2c<br  />
+从输入URL都发生了什么
