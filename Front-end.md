@@ -701,3 +701,6 @@ http://fex.baidu.com/blog/2014/05/what-happen/?qq-pf-to=pcqq.c2c<br  />
 
 http://www.codeceo.com/article/how-to-be-great-front-end-engineer.html<br  />
 如何成为一名伟大的前端工程师
+
+http://ourai.ws/posts/deployment-with-git-hooks/<br  />
+用githooks进行自动部署
