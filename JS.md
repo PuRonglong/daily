@@ -572,3 +572,6 @@ JS跨域总结
 
 http://greengerong.com/blog/2015/09/19/verlet-js-javascript-wu-li-yin-qing/#rd<br  />
 subprotocol最近在Github上开源了verlet-js。地址为https://github.com/subprotocol/verlet-js。verlet-js是一个集成Verlet的物理引擎，利用JavaScript编写。verlet-js支持粒子系统、距离限制、角度限制等。其Github声称基于这些基础，则可以帮助我们构建几乎任何我们所能想象到的东西。
+
+http://www.cnblogs.com/zichi/p/4824743.html<br  />
+JS中的DOM
