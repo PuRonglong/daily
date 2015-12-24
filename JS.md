@@ -589,3 +589,6 @@ http://www.infoq.com/cn/news/2015/09/nginScript-announced
 
 http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=
 深入学习JS对象
+
+http://coodict.github.io/javascript-in-one-pic/
+这个交互图可有助理解 JavaScript 的知识点
