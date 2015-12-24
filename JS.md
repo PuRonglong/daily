@@ -593,14 +593,14 @@ http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=<br  />
 http://coodict.github.io/javascript-in-one-pic/<br  />
 这个交互图可有助理解 JavaScript 的知识点
 
-http://icodeit.org/2015/09/write-a-parser/
+http://icodeit.org/2015/09/write-a-parser/<br  />
 工程中的编译原理 -- JavaScript版
 
-http://blogread.cn/it/article/6313?f=wb#original
+http://blogread.cn/it/article/6313?f=wb#original<br  />
 js中深度复制
 
-http://geek.csdn.net/news/detail/37350
+http://geek.csdn.net/news/detail/37350<br  />
 JS中对象类型检测
 
-http://web.jobbole.com/83761/
+http://web.jobbole.com/83761/<br  />
 JS模块化历程
