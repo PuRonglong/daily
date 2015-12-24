@@ -584,13 +584,13 @@ http://www.cnblogs.com/coco1s/p/4833199.html<br  />
 “对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。"
 对于这句话，不能赞同更多，也让我下决心好好写这篇，网上文章虽多，大多复制粘贴，且晦涩难懂，我希望能够通过这篇文章，能够清晰的提升对apply、call、bind的认识，并且列出一些它们的妙用加深记忆。
 
-http://www.infoq.com/cn/news/2015/09/nginScript-announced
+http://www.infoq.com/cn/news/2015/09/nginScript-announced<br  />
 基于JavaScript的配置语言——nginScript
 
-http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=
+http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=<br  />
 深入学习JS对象
 
-http://coodict.github.io/javascript-in-one-pic/
+http://coodict.github.io/javascript-in-one-pic/<br  />
 这个交互图可有助理解 JavaScript 的知识点
 
 http://icodeit.org/2015/09/write-a-parser/
