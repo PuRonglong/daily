@@ -586,3 +586,6 @@ http://www.cnblogs.com/coco1s/p/4833199.html<br  />
 
 http://www.infoq.com/cn/news/2015/09/nginScript-announced
 基于JavaScript的配置语言——nginScript
+
+http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=
+深入学习JS对象
