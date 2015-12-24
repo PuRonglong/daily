@@ -595,3 +595,6 @@ http://coodict.github.io/javascript-in-one-pic/
 
 http://icodeit.org/2015/09/write-a-parser/
 工程中的编译原理 -- JavaScript版
+
+http://blogread.cn/it/article/6313?f=wb#original
+js中深度复制
