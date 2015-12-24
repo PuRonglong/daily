@@ -598,3 +598,6 @@ http://icodeit.org/2015/09/write-a-parser/
 
 http://blogread.cn/it/article/6313?f=wb#original
 js中深度复制
+
+http://geek.csdn.net/news/detail/37350
+JS中对象类型检测
