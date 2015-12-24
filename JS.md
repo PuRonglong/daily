@@ -592,3 +592,6 @@ http://saebbs.com/forum.php?mod=viewthread&tid=37494&page=1&extra=
 
 http://coodict.github.io/javascript-in-one-pic/
 这个交互图可有助理解 JavaScript 的知识点
+
+http://icodeit.org/2015/09/write-a-parser/
+工程中的编译原理 -- JavaScript版
