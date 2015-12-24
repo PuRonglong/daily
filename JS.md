@@ -601,3 +601,6 @@ js中深度复制
 
 http://geek.csdn.net/news/detail/37350
 JS中对象类型检测
+
+http://web.jobbole.com/83761/
+JS模块化历程
