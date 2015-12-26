@@ -608,7 +608,7 @@ JS模块化历程
 http://web.jobbole.com/83778/<br  />
 JS性能优化
 
-https://github.com/abbshr/abbshr.github.io/issues/50
+https://github.com/abbshr/abbshr.github.io/issues/50<br  />
 解读JS异步函数
 
 http://efe.baidu.com/blog/javascript-private-implement/
