@@ -613,3 +613,6 @@ https://github.com/abbshr/abbshr.github.io/issues/50<br  />
 
 http://efe.baidu.com/blog/javascript-private-implement/<br  />
 js中实现私有成员的语法特性
+
+http://web.jobbole.com/83929/
+js高手进阶之路underscore源码经典
