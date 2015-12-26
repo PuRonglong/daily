@@ -610,3 +610,6 @@ JS性能优化
 
 https://github.com/abbshr/abbshr.github.io/issues/50
 解读JS异步函数
+
+http://efe.baidu.com/blog/javascript-private-implement/
+js中实现私有成员的语法特性
