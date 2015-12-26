@@ -607,3 +607,6 @@ JS模块化历程
 
 http://web.jobbole.com/83778/
 JS性能优化
+
+https://github.com/abbshr/abbshr.github.io/issues/50
+解读JS异步函数
