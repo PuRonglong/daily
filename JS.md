@@ -605,7 +605,7 @@ JS中对象类型检测
 http://web.jobbole.com/83761/<br  />
 JS模块化历程
 
-http://web.jobbole.com/83778/
+http://web.jobbole.com/83778/<br  />
 JS性能优化
 
 https://github.com/abbshr/abbshr.github.io/issues/50
