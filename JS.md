@@ -629,3 +629,6 @@ js到底指向什么
 
 http://www.imooc.com/article/1758
 学会js中的this这一篇就够了
+
+http://www.cnblogs.com/isaboy/p/javascript_hoisting.html
+什么是js hoisting?
