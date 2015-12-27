@@ -626,3 +626,6 @@ http://www.jstherightway.org/zh-tw/
 
 http://www.cnblogs.com/isaboy/archive/2015/10/29/javascript_this.html
 js到底指向什么
+
+http://www.imooc.com/article/1758
+学会js中的this这一篇就够了
