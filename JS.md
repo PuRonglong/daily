@@ -616,3 +616,6 @@ js中实现私有成员的语法特性
 
 http://web.jobbole.com/83929/<br  />
 js高手进阶之路underscore源码经典
+
+http://yalishizhude.github.io/2015/10/25/10/
+10段代码打通JS学习的任督二脉
