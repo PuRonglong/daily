@@ -617,14 +617,14 @@ js中实现私有成员的语法特性
 http://web.jobbole.com/83929/<br  />
 js高手进阶之路underscore源码经典
 
-http://yalishizhude.github.io/2015/10/25/10/
+http://yalishizhude.github.io/2015/10/25/10/<br  />
 10段代码打通JS学习的任督二脉
 
-http://www.jstherightway.org/zh-tw/
+http://www.jstherightway.org/zh-tw/<br  />
 虽然本网站的名字是the right way ，但并不表示是撰写JavaScript 的“唯一方法“。
 我们只是将一些顶尖开发者的文章、提醒及技巧收集于此。由于它是由一些厉害非常的乡民身上所收集而来，故称之为“the right way“或是最佳做法。
 
-http://www.cnblogs.com/isaboy/archive/2015/10/29/javascript_this.html
+http://www.cnblogs.com/isaboy/archive/2015/10/29/javascript_this.html<br  />
 js到底指向什么
 
 http://www.imooc.com/article/1758
