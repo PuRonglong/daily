@@ -635,3 +635,6 @@ http://www.cnblogs.com/isaboy/p/javascript_hoisting.html<br  />
 
 http://segmentfault.com/a/1190000003971627
 写了十年js却不知道模块化为何物
+
+http://www.ruanyifeng.com/blog/2015/11/circular-dependency.html
+js模块循环加载
