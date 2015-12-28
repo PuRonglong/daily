@@ -632,3 +632,6 @@ http://www.imooc.com/article/1758<br  />
 
 http://www.cnblogs.com/isaboy/p/javascript_hoisting.html<br  />
 什么是js hoisting?
+
+http://segmentfault.com/a/1190000003971627
+写了十年js却不知道模块化为何物
