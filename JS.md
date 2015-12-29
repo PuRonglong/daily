@@ -638,3 +638,6 @@ http://segmentfault.com/a/1190000003971627
 
 http://www.ruanyifeng.com/blog/2015/11/circular-dependency.html
 js模块循环加载
+
+http://blog.csdn.net/i10630226/article/details/49761439
+30个你 “ 不可能全部会做 ” 的javascript题目答案
