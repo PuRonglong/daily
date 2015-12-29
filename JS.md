@@ -633,7 +633,7 @@ http://www.imooc.com/article/1758<br  />
 http://www.cnblogs.com/isaboy/p/javascript_hoisting.html<br  />
 什么是js hoisting?
 
-http://segmentfault.com/a/1190000003971627
+http://segmentfault.com/a/1190000003971627<br  />
 写了十年js却不知道模块化为何物
 
 http://www.ruanyifeng.com/blog/2015/11/circular-dependency.html
