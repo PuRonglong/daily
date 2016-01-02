@@ -648,3 +648,6 @@ js各种遍历方式详解
 http://jiongks.name/blog/v8-javascript-performance-tips/<br  />
 如何巧妙提高v8 js性能，勾三股四翻译<br  />
 winter整理的dom必知必会
+
+http://www.cnblogs.com/onepixel/p/5062456.html<br  />
+干货分享，让你分分钟理解闭包
