@@ -642,9 +642,9 @@ js模块循环加载
 http://blog.csdn.net/i10630226/article/details/49761439<br  />
 30个你 “ 不可能全部会做 ” 的javascript题目答案
 
-http://www.codeceo.com/article/javascript-traversal.html
+http://www.codeceo.com/article/javascript-traversal.html<br  />
 js各种遍历方式详解
 
-http://jiongks.name/blog/v8-javascript-performance-tips/
+http://jiongks.name/blog/v8-javascript-performance-tips/<br  />
 如何巧妙提高v8 js性能，勾三股四翻译<br  />
 winter整理的dom必知必会
