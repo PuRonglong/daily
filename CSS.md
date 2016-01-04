@@ -137,3 +137,6 @@ CSS水平垂直居中的一种通用策略<br  />
 http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/<br  />
 解读CSS布局之水平垂直居中<br  />
 很多人看了我这篇讲解居中的文章后,感触就是技巧真多,其实我想说这不是重点,重点是对居中的方法按照各布局模块进行了分类,能让你对布局有个系统的认识
+
+https://www.gitbook.com/book/waylau/css3-tutorial/details<br  />
+CSS3 Tutorial 是一本关于 CSS3 的开源书。利用业余时间写了本书，图文并茂，用大量实例带你一步一步走进 CSS3 的世界。如有疏漏欢迎指正，点此提问。感谢您的参与
