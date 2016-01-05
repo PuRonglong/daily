@@ -140,3 +140,6 @@ http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/<br  
 
 https://www.gitbook.com/book/waylau/css3-tutorial/details<br  />
 CSS3 Tutorial 是一本关于 CSS3 的开源书。利用业余时间写了本书，图文并茂，用大量实例带你一步一步走进 CSS3 的世界。如有疏漏欢迎指正，点此提问。感谢您的参与
+
+http://pinggod.net/2015/08/12/vertical-align/<br  />
+译：what is vertical-align?
