@@ -652,8 +652,8 @@ winter整理的dom必知必会
 http://www.cnblogs.com/onepixel/p/5062456.html<br  />
 干货分享，让你分分钟理解闭包
 
-http://web.jobbole.com/84723/
+http://web.jobbole.com/84723/<br  />
 你应该知道的25道Javascript面试题
 
-http://guowenfh.github.io/2015/12/21/JS-Animated-Frames/
+http://guowenfh.github.io/2015/12/21/JS-Animated-Frames/<br  />
 JavaScript完美运动框架的进阶之旅
