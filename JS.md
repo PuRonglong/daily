@@ -661,3 +661,6 @@ JavaScript完美运动框架的进阶之旅
 https://github.com/codingplayboy/javascript_notes/blob/master/js_scope.md<br  />
 JavaScript之作用域与作用域链今天是2016的第一天，我们得扬帆起航踏上新的征程了。<br  />
 此篇阐述JavaScript中很重要的几个概念：作用域与作用域链及相关知识点。我们先从变量与作用域的行为关系开始讨论。
+
+https://github.com/mzkmzk/Read/blob/master/ji_chu_.md<br  />
+js基础
