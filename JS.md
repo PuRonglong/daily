@@ -664,3 +664,6 @@ JavaScript之作用域与作用域链今天是2016的第一天，我们得扬帆
 
 https://github.com/mzkmzk/Read/blob/master/ji_chu_.md<br  />
 js基础
+
+http://www.codeceo.com/article/javascript-threaded.html
+细说js单线程的一些事
