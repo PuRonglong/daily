@@ -667,3 +667,6 @@ js基础
 
 http://www.codeceo.com/article/javascript-threaded.html
 细说js单线程的一些事
+http://www.html5cn.org/article-9221-1.html
+学习JavaScript哪项技术更好：Angular、jQuery还是Node.js？
+这是一个发布在Quora上的问题，提问者是一名Java转JavaScript的程序员，他想了解现在学习哪种技术更好：Angular、jQuery还是Node.js?其中Mattias Petter Johansson (一名Spotify的开发人员) 的回答获得2k+的赞同，分享给大家。
