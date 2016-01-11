@@ -722,3 +722,6 @@ http://www.cnblogs.com/2050/p/3543011.html<br  />
 
 http://caibaojian.com/web-app-rem.html<br  />
 rem是如何实现自适应中的
+
+http://qianxueseng.com/2015/10/add-a-sticky-post/<br  />
+给hexo添加置顶功能
