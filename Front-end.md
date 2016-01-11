@@ -719,3 +719,6 @@ http://caibaojian.com/rem-and-px.html<br  />
 
 http://www.cnblogs.com/2050/p/3543011.html
 用node-webkit把web应用打包成桌面应用
+
+http://caibaojian.com/web-app-rem.html
+rem是如何实现自适应中的
