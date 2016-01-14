@@ -731,3 +731,6 @@ https://github.com/xufei/blog/issues/5<br  />
 
 http://my.oschina.net/waylau/blog/355179
 原 用 Github、Markdown 和 GitBook 写开源书
+
+http://caibaojian.com/mobile-translate.html
+移动端垂直水平居中对齐
