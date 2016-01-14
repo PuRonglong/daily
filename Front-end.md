@@ -738,3 +738,8 @@ http://caibaojian.com/mobile-translate.html<br  />
 http://jimliu.net/2015/12/30/model-driven-ui-blah-blah/<br  />
 扯扯“Model Driven UI” <br  />
 为什么我认为对于构建应用程序而言，MVVM/React是比jQuery更容易的方式？
+
+http://mp.weixin.qq.com/s?__biz=MzIzOTEzMTE4Mw==&mid=402005728&idx=1&sn=b3e6f5eeb1a9c9ac55563f4dd2cfc891&scene=4#wechat_redirect<br  />
+为什么Mac要将窗口关闭按钮放在左侧<br  />
+以前自己对于一个产品的评价只会说：这个用户体验不好、觉得很奇怪、很诡异，现在应该更多站在用户的角度去思考，偶尔还得考虑一下产品开发和运维的问题。<br  />
+一项产品的设计，都有相应的缘由，只或许是我们将它想得太过复杂，而忽略了很浅显而微妙的原因。若是对设计有好奇或者疑问，不如先“开脑洞”思考一下，然后去看看前辈们怎么认为，最后结合大家的想法和事实依据来思考为什么，毕竟基于数据和事实依据（用户调研）的思考比想当然更有价值。
