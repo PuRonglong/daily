@@ -728,3 +728,6 @@ http://qianxueseng.com/2015/10/add-a-sticky-post/<br  />
 
 https://github.com/xufei/blog/issues/5<br  />
 构建单页web应用
+
+http://my.oschina.net/waylau/blog/355179
+原 用 Github、Markdown 和 GitBook 写开源书
