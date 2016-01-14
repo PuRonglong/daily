@@ -747,3 +747,6 @@ http://mp.weixin.qq.com/s?__biz=MzIzOTEzMTE4Mw==&mid=402005728&idx=1&sn=b3e6f5ee
 http://weibo.com/p/1001603924826640228007<br  />
 winter:
 我眼中的前端框架jQuery，Angular，React，Vue——以及我看前端架构
+
+http://www.codeceo.com/article/full-frontend-guidelines.html<br  />
+最全面的前端开发指南
