@@ -729,11 +729,12 @@ http://qianxueseng.com/2015/10/add-a-sticky-post/<br  />
 https://github.com/xufei/blog/issues/5<br  />
 构建单页web应用
 
-http://my.oschina.net/waylau/blog/355179
+http://my.oschina.net/waylau/blog/355179<br  />
 原 用 Github、Markdown 和 GitBook 写开源书
 
-http://caibaojian.com/mobile-translate.html
+http://caibaojian.com/mobile-translate.html<br  />
 移动端垂直水平居中对齐
 
-http://jimliu.net/2015/12/30/model-driven-ui-blah-blah/
-扯扯“Model Driven UI” 为什么我认为对于构建应用程序而言，MVVM/React是比jQuery更容易的方式？
+http://jimliu.net/2015/12/30/model-driven-ui-blah-blah/<br  />
+扯扯“Model Driven UI” <br  />
+为什么我认为对于构建应用程序而言，MVVM/React是比jQuery更容易的方式？
