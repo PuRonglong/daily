@@ -734,3 +734,6 @@ http://my.oschina.net/waylau/blog/355179
 
 http://caibaojian.com/mobile-translate.html
 移动端垂直水平居中对齐
+
+http://jimliu.net/2015/12/30/model-driven-ui-blah-blah/
+扯扯“Model Driven UI” 为什么我认为对于构建应用程序而言，MVVM/React是比jQuery更容易的方式？
