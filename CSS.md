@@ -143,3 +143,6 @@ CSS3 Tutorial 是一本关于 CSS3 的开源书。利用业余时间写了本书
 
 http://pinggod.net/2015/08/12/vertical-align/<br  />
 译：what is vertical-align?
+
+http://web.jobbole.com/83186/<br  />
+20个对前端开发人员有用的文档和指南
