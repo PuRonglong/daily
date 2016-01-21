@@ -753,3 +753,6 @@ http://www.codeceo.com/article/full-frontend-guidelines.html<br  />
 
 http://news.oneapm.com/hellomessage-url/?utm_source=tuicool&utm_medium=referral<br  />
 如何像后端一样写前端代码？
+
+http://www.html5cn.org/article-7717-1.html<br  />
+10 个非常有用的 SVG 动画的 JavaScript 库
