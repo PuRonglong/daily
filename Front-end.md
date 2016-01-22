@@ -756,3 +756,6 @@ http://news.oneapm.com/hellomessage-url/?utm_source=tuicool&utm_medium=referral<
 
 http://www.html5cn.org/article-7717-1.html<br  />
 10 个非常有用的 SVG 动画的 JavaScript 库
+
+http://www.ui.cn/detail/16348.html<br  />
+网页动画：JavaScript和CSS3 动效库大全
