@@ -759,3 +759,6 @@ http://www.html5cn.org/article-7717-1.html<br  />
 
 http://www.ui.cn/detail/16348.html<br  />
 网页动画：JavaScript和CSS3 动效库大全
+
+https://stats.js.org/<br  />
+The table shows statistics and a ranking of the 10k most popular JavaScript projects on GitHub. The normalized values are calculated by the given number of stars and forks of a project.
