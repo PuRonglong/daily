@@ -765,3 +765,9 @@ The table shows statistics and a ranking of the 10k most popular JavaScript proj
 
 http://www.html5cn.org/article-9234-1.html<br  />
 Meta标签与搜索引擎优化
+
+http://miantiao.me/use-swiftype-search.html
+使用 Swiftype 解决 Jekyll 等静态博客搜索功能 自从去年六月开始使用 Jekyll 已经有一年时间了，这段时间内一直使用谷歌自定义搜索来解决Jekyll的搜索功能。但是随着傻逼二逼加蠢逼的 GFW 开始大量封锁网站，谷歌自定义搜索也不能用了（翻墙除外），在 V2EX 上边看到有人推荐 Swiftype 看了一下感觉不错，而且对中文支持也不错，就选用 Swiftype 来解决搜索问题。
+
+http://zhuanlan.zhihu.com/qianduan/20533783
+前端的黑客精神
