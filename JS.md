@@ -674,3 +674,6 @@ http://www.html5cn.org/article-9221-1.html<br  />
 
 http://www.imooc.com/article/3609
 JavaScript 数组常用方法介绍
+
+http://www.cnblogs.com/tugenhua0707/p/5156179.html
+【干货理解】理解javascript中实现MVC的原理
