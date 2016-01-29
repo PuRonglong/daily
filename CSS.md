@@ -159,3 +159,6 @@ http://www.w3cplus.com/css3/debugging-css-keyframe-animations.html<br  />
 http://web.jobbole.com/83263/<br  />
 一个元素如果设置了’position: absolute;’, 但没有设置top, right, bottom, left, 此元素的位置在哪?
 在涉及到绝对定位元素的位置问题时, 一个重要的概念是containing block, 想要了解元素的位置, 还得找到此元素的containing block才行. 如下是我进行的一系列测试, 以及对测试结果的试探性解释.
+
+http://www.w3ctech.com/topic/1472
+调试 CSS3 动画一直是个恶心的问题，本文通过一些奇淫技巧实现了一些调试方案，经常写 CSS3 动画的可以了解一下。推荐文章《调试 CSS Keyframe 动画》
