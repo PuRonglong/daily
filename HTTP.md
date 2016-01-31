@@ -47,3 +47,6 @@ http://blog.jobbole.com/87509/<br  />
 
 http://www.codeceo.com/article/avoid-ddos-on-apache.html<br  />
 如何在 Apache 中抵御暴力破解和 DDos 攻击
+
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn#etag<br  />
+HTTP 缓存讲得比较细
