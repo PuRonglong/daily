@@ -53,3 +53,6 @@ HTTP 缓存讲得比较细
 
 http://zhuanlan.zhihu.com/ye11ow/19969498
 HTTP/2 新特性简析
+
+https://www.imququ.com/post/http2-and-wpo-1.html<br  />
+HTTP/2 与 WEB 性能优化（一）
