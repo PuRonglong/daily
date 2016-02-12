@@ -166,7 +166,7 @@ http://www.w3ctech.com/topic/1472<br  />
 http://www.w3ctech.com/topic/1483<br  />
 在波大 @裕波 的 w3ctech 发了一篇之前写的 CSS 文章《你不知道的 CSS》，最近在筹备 Node.js 新书，所以这个酝酿很久的系列不知道什么时候才有机会写完。CSS 有很多有趣的细节，真是羡慕死前端开发者们了。
 
-http://f2er.info/article/8
+http://f2er.info/article/8<br  />
 CSS最核心的几个概念：
 本文将讲述 CSS 中最核心的几个概念，包括：盒模型、position、float等。这些是 CSS 的基础，也是最常用的几个属性，它们之间看似独立却又相辅相成。为了掌握它们，有必要写出来探讨一下，如有错误欢迎指正。
 
