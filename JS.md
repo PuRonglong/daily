@@ -677,3 +677,6 @@ JavaScript 数组常用方法介绍
 
 http://www.cnblogs.com/tugenhua0707/p/5156179.html<br  />
 【干货理解】理解javascript中实现MVC的原理
+
+https://segmentfault.com/a/1190000004428902<br  />
+js测试
