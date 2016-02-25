@@ -680,3 +680,6 @@ http://www.cnblogs.com/tugenhua0707/p/5156179.html<br  />
 
 https://segmentfault.com/a/1190000004428902<br  />
 js测试
+
+http://caibaojian.com/357.html?wb<br  />
+jquery插件开发教程入门
