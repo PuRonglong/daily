@@ -683,3 +683,6 @@ js测试
 
 http://caibaojian.com/357.html?wb<br  />
 jquery插件开发教程入门
+
+https://segmentfault.com/a/1190000004454531
+为你的js写测试
