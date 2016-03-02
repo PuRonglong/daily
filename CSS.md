@@ -181,3 +181,6 @@ CSS3flexbox不迷路指南
 
 http://yibuyisheng.github.io/blogs/site/blogs/CSS%20%E7%A9%BA%E5%BF%83%E5%AD%97.html<br  />
 CSS空心字
+
+http://www.cnblogs.com/iyangyuan/archive/2013/03/27/2983813.html<br  />
+CSS浮动通俗讲解
