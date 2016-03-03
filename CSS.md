@@ -184,3 +184,8 @@ CSS空心字
 
 http://www.cnblogs.com/iyangyuan/archive/2013/03/27/2983813.html<br  />
 CSS浮动通俗讲解
+
+http://www.qianduan.net/css3-animation/
+利用CSS3-animation来进行逐帧动画<br  />
+假如你想要用非gif做一些css的逐帧动画，那不妨可以看看这篇文章，说不定哪天还真用得着呢<br  />
+趁着还没有元旦之前先码一篇文章，不然到时候估计又被各种虐了，所以趁现在还有力气先来一篇。今天来聊聊css3中的动画属性animation，对这个属性懵懂是在很早的时候有前辈用这个 animation 属性来写了一个菊花打转的loading，然后google了一下知道了有这么一个css动画组件叫做 animation.css 其实还有很多这种动画组件，他们很多都是基于jquery来操作的。今天我们不是来谈他们怎么用的，只是来了解一下执行这些动作后的这个animation属性，到底是怎么起到作用的。
