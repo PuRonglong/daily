@@ -778,3 +778,6 @@ Cocos2d-x初体验之Lua篇 本文收录的文章来自 11 个热门的技术类
 
 http://mp.weixin.qq.com/s?__biz=MTEwNTM0ODI0MQ==&mid=402751887&idx=1&sn=3bc0ed7aca8f653f583c833a467b6d46<br  />
 面向设计的半封装web组件开发-张鑫旭
+
+http://www.zoneky.com/blog/2015/03/02/embed-svg/<br  />
+页面中嵌入svg的几种方式
