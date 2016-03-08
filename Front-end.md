@@ -772,7 +772,7 @@ http://miantiao.me/use-swiftype-search.html<br  />
 http://zhuanlan.zhihu.com/qianduan/20533783<br  />
 前端的黑客精神
 
-http://blog.jobbole.com/97515/
+http://blog.jobbole.com/97515/<br  />
 2015年在微信热传的100+经典技术文章<br  />
 Cocos2d-x初体验之Lua篇 本文收录的文章来自 11 个热门的技术类微信公众号。我们从每个公号中选出了 2015 年最热门的 10 篇技术文章，共 100 多篇精华。涉及的技术包括：Python、Linux、Java、Web前端、数据库、C/C++、安卓开发、iOS开发和PHP开发。除此之外，我们还精选了IT职场、IT趣文 和 极客酷文作为补充。有干货、有笑点、有范！
 
@@ -781,3 +781,6 @@ http://mp.weixin.qq.com/s?__biz=MTEwNTM0ODI0MQ==&mid=402751887&idx=1&sn=3bc0ed7a
 
 http://www.zoneky.com/blog/2015/03/02/embed-svg/<br  />
 页面中嵌入svg的几种方式
+
+http://www.html5cn.org/article-9332-1.html<br  />
+如何用canvas制作3d动画效果
