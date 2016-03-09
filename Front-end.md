@@ -784,3 +784,6 @@ http://www.zoneky.com/blog/2015/03/02/embed-svg/<br  />
 
 http://www.html5cn.org/article-9332-1.html<br  />
 如何用canvas制作3d动画效果
+
+http://www.html5cn.org/article-9050-1.html<br  />
+HTML5大战原生开发应用 谁赢谁输？
