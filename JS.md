@@ -689,3 +689,6 @@ https://segmentfault.com/a/1190000004454531<br  />
 
 http://web.jobbole.com/84916/<br  />
 用 Map 替代循环的那些好处
+
+http://www.cnblogs.com/xing901022/p/5094550.html<br  />
+[Canvas前端游戏开发]——FlappyBird详解
