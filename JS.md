@@ -692,3 +692,6 @@ http://web.jobbole.com/84916/<br  />
 
 http://www.cnblogs.com/xing901022/p/5094550.html<br  />
 [Canvas前端游戏开发]——FlappyBird详解
+
+https://github.com/jinzhan/lazyLoad/blob/master/lazyLoad.js<br  />
+延迟加载图片
