@@ -702,3 +702,6 @@ JavaScript 总结几个提高性能知识点<br  />
 
 http://www.cnblogs.com/xxcanghai/p/5189353.html<br  />
 一道常被人轻视的前端JS面试题
+
+http://www.cnblogs.com/xxcanghai/p/4991870.html<br  />
+大部分人都会做错的经典JS闭包面试题
