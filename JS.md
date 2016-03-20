@@ -705,3 +705,6 @@ http://www.cnblogs.com/xxcanghai/p/5189353.html<br  />
 
 http://www.cnblogs.com/xxcanghai/p/4991870.html<br  />
 大部分人都会做错的经典JS闭包面试题
+
+http://caibaojian.com/jquery/<br  />
+jquery的中文api手册
