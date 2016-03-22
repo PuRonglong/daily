@@ -708,3 +708,6 @@ http://www.cnblogs.com/xxcanghai/p/4991870.html<br  />
 
 http://caibaojian.com/jquery/<br  />
 jquery的中文api手册
+
+https://segmentfault.com/a/1190000004587823<br  />
+爱上js数组
