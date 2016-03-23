@@ -711,3 +711,7 @@ jquery的中文api手册
 
 https://segmentfault.com/a/1190000004587823<br  />
 爱上js数组
+
+http://www.cnblogs.com/coco1s/p/5261646.html<br  />
+经不住似水流年，逃不过此间少年<br  />
+【深入浅出jQuery】源码浅析—整体架构
