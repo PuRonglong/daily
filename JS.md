@@ -715,3 +715,6 @@ https://segmentfault.com/a/1190000004587823<br  />
 http://www.cnblogs.com/coco1s/p/5261646.html<br  />
 经不住似水流年，逃不过此间少年<br  />
 【深入浅出jQuery】源码浅析—整体架构
+
+http://caibaojian.com/t/javascript<br  />
+学习JavaScript前端知识，包括JavaScript对象、函数、方法和属性，编写基础JavaScript代码，分享JavaScript资源等
