@@ -718,3 +718,6 @@ http://www.cnblogs.com/coco1s/p/5261646.html<br  />
 
 http://caibaojian.com/t/javascript<br  />
 学习JavaScript前端知识，包括JavaScript对象、函数、方法和属性，编写基础JavaScript代码，分享JavaScript资源等
+
+https://plainjs.com/javascript/<br  />
+plain.js 中记录了各方面取代jQuery而使用原始JavaScript的方式，如果你还离不开jQuery或Zepto，不妨跟着这份文档熟悉一下
