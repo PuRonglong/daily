@@ -721,3 +721,6 @@ http://caibaojian.com/t/javascript<br  />
 
 https://plainjs.com/javascript/<br  />
 plain.js 中记录了各方面取代jQuery而使用原始JavaScript的方式，如果你还离不开jQuery或Zepto，不妨跟着这份文档熟悉一下
+
+http://www.imooc.com/article/2088<br  />
+彻底理解js原型
