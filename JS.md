@@ -724,3 +724,6 @@ plain.js 中记录了各方面取代jQuery而使用原始JavaScript的方式，�
 
 http://www.imooc.com/article/2088<br  />
 彻底理解js原型
+
+https://segmentfault.com/a/1190000004629413<br  />
+深入理解js函数
