@@ -733,3 +733,6 @@ http://www.imooc.com/article/1848<br  />
 
 http://caibaojian.com/t/javascript%E7%AC%94%E8%AE%B0<br  />
 js笔记
+
+http://blog.ueder.info/589.html<br  />
+浅谈js闭包
