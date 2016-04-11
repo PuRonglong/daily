@@ -799,3 +799,6 @@ http://www.w3cplus.com/svg/svg-tips-for-designers.html<br  />
 
 http://www.cnblogs.com/dojo-lzz/p/3999013.html<br  />
 最初这篇文章打算回答寒冬大神的第一问，谈谈CSS布局。本来呢我以为布局主要涉及float跟display相关属性，以及他们的包含框、静态位置等等。后来看了大神的一片面试文章，嗯？这里怎么还有个BFC，这是神马东东。待我搜索一下，萨萨萨，不看不知道，越看越糊涂，这到底是个神马东东。。。经过一个周时间的查阅资料和自我思考，在此总结一下我对BFC的认识，愿与各位道友分享，欢迎拍砖！
+
+http://www.enkj.com/idcnews/Article/20150203/7150<br  />
+20种帮你提高网站访问速度缩短网页加载时间的方法
