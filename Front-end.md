@@ -802,3 +802,6 @@ http://www.cnblogs.com/dojo-lzz/p/3999013.html<br  />
 
 http://www.enkj.com/idcnews/Article/20150203/7150<br  />
 20种帮你提高网站访问速度缩短网页加载时间的方法
+
+http://www.html5cn.org/article-8705-1.html
+网页无图不再是梦
