@@ -803,5 +803,8 @@ http://www.cnblogs.com/dojo-lzz/p/3999013.html<br  />
 http://www.enkj.com/idcnews/Article/20150203/7150<br  />
 20种帮你提高网站访问速度缩短网页加载时间的方法
 
-http://www.html5cn.org/article-8705-1.html
+http://www.html5cn.org/article-8705-1.html<br  />
 网页无图不再是梦
+
+http://gold.xitu.io/entry/56e790d71ea493005519bb51<br  />
+如何打造集才华与美貌与一身的网站？ 网页设计[2]师面临的最大挑战之一，可能就是平衡网站的功能性和视觉性。你说，我也想「极简」，我也想「高大上」，可是不弄个红彤彤的按钮，用户就不知道点哪里嘛。在本篇文章中，我们举了4个例子，看看他们是如何解决这个世纪难题的。
