@@ -821,3 +821,6 @@ SVG的用法
 
 http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/<br  />
 winter:一个前端开发者的自我修养
+
+http://blog.h5jun.com/post/left-pad.html<br  />
+月影：由NPM引发的关于left-pad的那些事儿
