@@ -824,3 +824,12 @@ winter:一个前端开发者的自我修养
 
 http://blog.h5jun.com/post/left-pad.html<br  />
 月影：由NPM引发的关于left-pad的那些事儿
+
+http://36kr.com/p/533581.html<br  />
+GitHub 如何征服了 Google、微软及一切
+
+http://www.cnblogs.com/tianjuan/p/5309729.html<br  />
+web前端（实习生）之 “百度一面” 2016.3.18，星期五。我经历了我的第一次面试。 不得不说，百度是一个高效的公司，在短短一下午之间我就直接经历了一面二面，说没有压力是假的，还记得在中途等待二面的时候我至少有一小段的时间脑子是卡带的。
+
+http://www.cnblogs.com/lyzg/p/4877277.html<br  />
+从网易与淘宝的font-size思考前端设计稿与工作流
