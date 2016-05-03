@@ -836,3 +836,9 @@ http://www.cnblogs.com/lyzg/p/4877277.html<br  />
 
 http://www.cnblogs.com/toutou/p/web.html<br  />
 这些web特效你知道吗？
+
+http://zziking.github.io/web/2016/02/20/jekyll_upgrade_to_3.x.html<br  />
+jekyll升级到3.0.0
+
+https://github.com/qiu-deqing/FE-learning<br  />
+结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
