@@ -842,3 +842,6 @@ jekyll升级到3.0.0
 
 https://github.com/qiu-deqing/FE-learning<br  />
 结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
+
+http://mp.weixin.qq.com/s?__biz=MzIzMzEzODYwOA==&mid=417196806&idx=1&sn=fb9beaec30a5836e754d4a5be81d5cec&scene=23&srcid=0329VI9D7fT7M7POtZK5sx3o#rd<br  />
+京东资深前端架构师分享前端工程化在电商首页中的实践
