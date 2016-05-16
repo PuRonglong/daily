@@ -851,3 +851,6 @@ http://www.html5cn.org/article-9463-1.html<br  />
 
 http://f2e.souche.com/blog/ru-he-xie-ge-jian-dan-de-fen-ye/<br  />
 《如何写一个简单的分页》我想，很多自学前端的同学都会遇到这样一个坎儿，我能做很多东西，但是感觉自己还是啥都不会。编程，很重要的一个技能就是抽象能力，就是现实中的琐事儿，我怎么用代码来表示。
+
+http://jsdig.com/<br  />
+如果你是前端工程师，把你的网站或者你知道的网站加进来吧
