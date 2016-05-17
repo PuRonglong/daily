@@ -854,3 +854,6 @@ http://f2e.souche.com/blog/ru-he-xie-ge-jian-dan-de-fen-ye/<br  />
 
 http://jsdig.com/<br  />
 如果你是前端工程师，把你的网站或者你知道的网站加进来吧
+
+http://bbs.html5cn.org/thread-150247-1-1.html<br  />
+快速构建H5单页面切换骨架
