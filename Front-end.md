@@ -857,3 +857,10 @@ http://jsdig.com/<br  />
 
 http://bbs.html5cn.org/thread-150247-1-1.html<br  />
 快速构建H5单页面切换骨架
+
+http://v2ex.com/t/270039<br  />
+有哪些你觉得很棒的个人主页 sahrechiiz 各位讲道理嘛 我说的是主页，虽然你说你的主页就是博客，当然也没问题，不过我想看的是类似于： 
+http://lorem.in/ 
+http://rijnx.com/ 
+https://www.thonatos.com/ 
+欢迎各位重新检索一下脑海中的数据
