@@ -864,3 +864,7 @@ http://lorem.in/
 http://rijnx.com/ 
 https://www.thonatos.com/ 
 欢迎各位重新检索一下脑海中的数据
+
+http://tianweishu.com/2015/10/16/simplify-the-img-upload-in-markdown/
+简化markdown写作中的贴图流程 
+markdown写作的时候，图片插入是一件比较麻烦的事情。常见的流程如下： 用截图工具截图； 将截图保存到某个地方 修改截图文件名 上传截图到某个图床（如果不用“围脖是个好图床”这样的工具，还得用客户端登陆） 拿到图床上的截图的链接；然后用markdown格式插入图片 这么复杂的流程，让人简直没有了插入图片的欲望；但是大量的文字没有图片，必然让人疲惫； 要是能随便截个图，然后直接粘贴就成了markdown格式就好了；自然是能够做到！懒就是生产力
