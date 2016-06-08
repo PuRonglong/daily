@@ -871,3 +871,7 @@ markdown写作的时候，图片插入是一件比较麻烦的事情。常见的
 
 http://tianweishu.com/2016/02/01/avoid-switching-keyboard-in-markdown/<br  />
 提升markdown的中文输入效率
+
+http://taobaofed.org/blog/2015/12/21/webgl-handbook/
+WebGL 技术储备指南<br  />
+WebGL是HTML5草案的一部分，可以驱动Canvas渲染三维场景。WebGL虽然还未有广泛应用，但极具潜力和想象空间。本文是我学习WebGL时梳理知识脉络的产物，花点时间整理出来与大家分享
