@@ -881,3 +881,7 @@ http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A
 
 http://www.cnblogs.com/DaisyWang/p/5468761.html<br  />
 如何在github上展示作品——为你的项目生成一个快速访问的网址如（DaisyWang88.github.io）
+
+http://morning.work/page/2016-05/how-to-write-a-nodejs-redis-client.html<br  />
+Node.js 面试题： 编写一个简单的 Redis 客户端
+老雷
