@@ -883,5 +883,8 @@ http://www.cnblogs.com/DaisyWang/p/5468761.html<br  />
 如何在github上展示作品——为你的项目生成一个快速访问的网址如（DaisyWang88.github.io）
 
 http://morning.work/page/2016-05/how-to-write-a-nodejs-redis-client.html<br  />
-Node.js 面试题： 编写一个简单的 Redis 客户端
+Node.js 面试题： 编写一个简单的 Redis 客户端<br  />
 老雷
+
+http://tikitoo.github.io/2016/05/17/beautiful-android-login-and-signup-screens-with-material-design-zh/<br  />
+教你写一个炫酷的Material Design 风格的登录和注册页面
