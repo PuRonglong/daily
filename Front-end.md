@@ -888,3 +888,6 @@ Node.js 面试题： 编写一个简单的 Redis 客户端<br  />
 
 http://tikitoo.github.io/2016/05/17/beautiful-android-login-and-signup-screens-with-material-design-zh/<br  />
 教你写一个炫酷的Material Design 风格的登录和注册页面
+
+http://www.jianshu.com/p/f961e1a03a56<br  />
+对于js的调试，一般我们经常用alert()或者console.log()进行调试。但是alert()会让程序中断，而console.log()则不会。虽然用的很多，但是我就只知道console.log()而已。今天专门去研究一下这个东西console。
