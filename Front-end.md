@@ -891,3 +891,6 @@ http://tikitoo.github.io/2016/05/17/beautiful-android-login-and-signup-screens-w
 
 http://www.jianshu.com/p/f961e1a03a56<br  />
 对于js的调试，一般我们经常用alert()或者console.log()进行调试。但是alert()会让程序中断，而console.log()则不会。虽然用的很多，但是我就只知道console.log()而已。今天专门去研究一下这个东西console。
+
+http://blog.tingyun.com/web/article/detail/570<br  />
+在页面间跳转的性能优化(一)中介绍了一些基础知识，讲述了情形一与情形二的优化方式及原理，但有许多人对情形二最后两种处理方式的原理表示不理解，不清楚处理过程，接下来会详细分步地讲述这两种方式的原理，如果你还没看过页面间跳转的性能优化(一)
