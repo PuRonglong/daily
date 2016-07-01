@@ -897,3 +897,6 @@ http://blog.tingyun.com/web/article/detail/570<br  />
 
 http://web.jobbole.com/86209/<br  />
 必看的 JS 开发工具，让其他工具相形见绌
+
+http://blog.csdn.net/three_bird/article/details/51302275<br  />
+从无到有写一个jQuery开源插件
