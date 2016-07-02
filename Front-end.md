@@ -900,3 +900,6 @@ http://web.jobbole.com/86209/<br  />
 
 http://blog.csdn.net/three_bird/article/details/51302275<br  />
 从无到有写一个jQuery开源插件
+
+http://www.imooc.com/article/8709#parent_1<br  />
+说一说我是怎么走web App开发这条路的 原创 开始这个话题前，我想先说一说，我对Web App的理解吧。其实这里所谓的移动端Web App开发，不只是通常大家接触到的HTML5移动终端的网页开发,也包含一部分Hybrid App开发或者是纯客户端开发，当然早期的时候也会包含一部分复杂的PC端单页应用。如果说他们和网页开发有什么区别，其实本质上并没有太大的区别，只是在呈现形式，代码复杂度和架构的方式上不太一样吧。
