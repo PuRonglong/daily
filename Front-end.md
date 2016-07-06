@@ -909,3 +909,6 @@ https://isux.tencent.com/3d.html<br  />
 
 http://blogread.cn/it/article/7472?f=wb#original<br  />
 前天参加了腾讯的一个面试，面试官除了提到前端的一些基础问题，还问了不少前端安全方面的知识，以及一些实际应用的设计思路。整个面试过程中，面试官不断地抛问题，而且很多问题都是点到为止。对于一些比较难的问题，也没有任何提示，回答对错也不告诉你，更不会跟你讲解这个问题到底是如何解决的！难道是为了节省面试时间吗？面试中，问了这么一道题：“微信手机客户端扫面二维码实现网页登录原理是什么？”。当时，答得比较乱。问题本身还是挺有意思的，于是今天好好研究了下！
+
+https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/<br  />
+In this post I will share 12 extremely useful hacks for JavaScript. These hacks reduce the code and will help you to run optimized code. So let’s start hacking!
