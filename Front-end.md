@@ -912,3 +912,6 @@ http://blogread.cn/it/article/7472?f=wb#original<br  />
 
 https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/<br  />
 In this post I will share 12 extremely useful hacks for JavaScript. These hacks reduce the code and will help you to run optimized code. So let’s start hacking!
+
+http://iwenku.net/?article_173.html<br  />
+一个初级的前端工程师需要知道些什么？
