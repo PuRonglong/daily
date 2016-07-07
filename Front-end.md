@@ -915,3 +915,6 @@ In this post I will share 12 extremely useful hacks for JavaScript. These hacks 
 
 http://iwenku.net/?article_173.html<br  />
 一个初级的前端工程师需要知道些什么？
+
+http://www.jack003.com/html/2016/06/04/jekyll-pagination-with-jpages.html<br  />
+jekyll分页
