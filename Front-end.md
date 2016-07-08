@@ -918,3 +918,6 @@ http://iwenku.net/?article_173.html<br  />
 
 http://www.jack003.com/html/2016/06/04/jekyll-pagination-with-jpages.html<br  />
 jekyll分页
+
+https://zhuanlan.zhihu.com/p/21346046<br  />
+本文源于同名问题： 到底什么是闭包？ - 前端开发 <br  />感觉楼里大部分回答太复杂了，过于理论化，文绉绉地绕来绕去，没抓住本质和精髓。抄书谁不会啊？其实闭包没那么复杂。
