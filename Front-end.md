@@ -924,3 +924,6 @@ https://zhuanlan.zhihu.com/p/21346046<br  />
 
 http://www.cnblogs.com/hustskyking/p/4743912.html<br  />
 前端代码异常日志收集与监控 在复杂的网络环境和浏览器环境下，自测、QA测试以及 Code Review 都是不够的，如果对页面稳定性和准确性要求较高，就必须有一套完善的代码异常监控体系，本文从前端代码异常监控的方法和问题着手，尽量全面地阐述错误日志收集各个阶段中可能遇到的阻碍和处理方案。
+
+http://web.jobbole.com/86543/<br  />
+JGulp: 利用Gulp 配置的前端项目自动化工作流
