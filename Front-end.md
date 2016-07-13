@@ -927,3 +927,6 @@ http://www.cnblogs.com/hustskyking/p/4743912.html<br  />
 
 http://web.jobbole.com/86543/<br  />
 JGulp: 利用Gulp 配置的前端项目自动化工作流
+
+http://web.jobbole.com/86639/<br  />
+如果你正在念大学，恰好也知道前端
