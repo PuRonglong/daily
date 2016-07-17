@@ -930,3 +930,6 @@ JGulp: 利用Gulp 配置的前端项目自动化工作流
 
 http://web.jobbole.com/86639/<br  />
 如果你正在念大学，恰好也知道前端
+
+http://www.wukai.me/2016/03/25/chrome-extension-zhihufilter/<br  />
+开发一个用于屏蔽知乎网内容的Chrome扩展
