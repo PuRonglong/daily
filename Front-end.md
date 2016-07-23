@@ -933,3 +933,6 @@ http://web.jobbole.com/86639/<br  />
 
 http://www.wukai.me/2016/03/25/chrome-extension-zhihufilter/<br  />
 开发一个用于屏蔽知乎网内容的Chrome扩展
+
+http://www.jackpu.com/xie-gei-gang-ru-men-de-qian-duan-gong-cheng-shi-de-qian-hou-duan-jiao-hu-zhi-nan/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io<br  />
+写给刚入门的前端工程师的前后端交互指南2016-07-14作为刚接触前端的不久的童鞋，大家都会兴奋于CSS和JS所带来漂亮界面，然而，前端工程师除了UI重构外，还有非常重要的职责在正确的区域渲染出服务端的数据。毕竟，我们要构建一个大的web应用，必然不是普普通通的静态页面构成。下文将罗列将来前端工程师应该必备的同后端打交道的常用技能。
