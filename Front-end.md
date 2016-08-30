@@ -936,3 +936,6 @@ http://www.wukai.me/2016/03/25/chrome-extension-zhihufilter/<br  />
 
 http://www.jackpu.com/xie-gei-gang-ru-men-de-qian-duan-gong-cheng-shi-de-qian-hou-duan-jiao-hu-zhi-nan/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io<br  />
 写给刚入门的前端工程师的前后端交互指南2016-07-14作为刚接触前端的不久的童鞋，大家都会兴奋于CSS和JS所带来漂亮界面，然而，前端工程师除了UI重构外，还有非常重要的职责在正确的区域渲染出服务端的数据。毕竟，我们要构建一个大的web应用，必然不是普普通通的静态页面构成。下文将罗列将来前端工程师应该必备的同后端打交道的常用技能。
+
+http://blog.nsfocus.net/beware-browser-plug-ins-steal-privacy/?f=http://blogread.cn/<br  />
+小心浏览器插件窃取你的隐私 5 months ago xxlegend 浏览器插件窃取隐私 阅读： 1,391 浏览器插件已经成为了浏览器的必备品，但是市场上的插件也良莠不齐，甚至部分插件切换用户隐私，如浏览器的历史记录。笔者就遇到了这样一个插件，就是著名的手势插件：crxMouse Chrome Gestures，更可气的是已经用了这个插件一年多了
